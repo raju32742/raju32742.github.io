@@ -1,17 +1,19 @@
 main:
+  - title: "Resume"
+    url: /resume/
+    right: true
 
-  - title: "Teaching"
-    url: /teaching/
-    right: true 
+  - title: "Projects"
+    url: /projects/
+
+  # - title: "Teaching"
+  #   url: /teaching/
 
   - title: "Services"
     url: /services/
 
-  - title: "Talks"
-    url: /talks/
-
-  #- title: "Teaching"
-  #  url: ./teaching.html
+# - title: "Talks"
+#   url: /talks/
 
   - title: "Publications"
     url: /publications/

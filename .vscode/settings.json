@@ -1,0 +1,29 @@
+{
+  "workbench.view.alwaysShowHeaderActions": true,
+  "workbench.tree.renderIndentGuides": "none",
+  "[pvs]": {
+    "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}|;:'\",.<>/"
+  },
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "**/*.???~": true,
+    "**/*.jprf": true,
+    "**/*.log": false,
+    "**/*.olean": true,
+    "**/*.prf": true,
+    "**/*_adt.pvs": false,
+    "**/.pvscontext": true,
+    "**/.vscode": true,
+    "**/orphaned-proofs.prf": true,
+    "**/pvsbin": true
+  },
+  "files.readonlyInclude": {
+    "**/*.tccs": true,
+    "**/*.summary": true
+  }
+}

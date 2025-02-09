@@ -1,15 +1,15 @@
 # Basic Information 
-title: Yaoyao Liu
-position: Assistant Professor
-affiliation: University of Illinois Urbana-Champaign
-affiliation_link: https://www.illinois.edu/
-affiliation_logo: ./assets/img/illinois.svg
-email: lyy (at) illinois.edu
+title: Priscilla Kyei Danso
+position: Graduate Research Assistant
+affiliation: Stony Brook University
+affiliation_link: https://www.stonybrook.edu/
+affiliation_logo: /assets/img/logo.png
+email: pdanso (at) cs.stonybrook.edu
 
 # Search Engine Optimization (SEO)
-keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
-canonical: https://yaoyaoliu.web.illinois.edu
-description: Yaoyao Liu is an assistant professor at the University of Illinois Urbana-Champaign. His research lies in meta-learning, incremental learning, and image generation.
+keywords: Priscilla Kyei Danso, Danso Priscilla Kyei, DansoPriscillaKyei, PriscillaKyeiDanso
+canonical: https://priscilla100.github.io
+description: Priscilla Kyei Danso is a second year PhD in Computer Science student at Stony Brook University. Her research lies in Security, Privacy, Formal Methods, and Automated Reasoning.
 
 # The option is used to enable the Illinois template.
 enable_hopkins_logo: true
@@ -19,22 +19,22 @@ enable_last_update: false
 
 # Links
 link_type: icon #text/icon
-google_scholar: https://scholar.google.com/citations?user=Qi2PSmEAAAAJ
-github_link: https://github.com/yaoyao-liu/
-linkedin: https://www.linkedin.com/in/liuyaoyao/
-twitter: https://twitter.com/YaoyaoLiu1/
+google_scholar: https://scholar.google.com/citations?user=bPvjbUMAAAAJ&hl=en
+github_link: https://github.com/priscilla100/
+linkedin: https://www.linkedin.com/in/priscilla-kyei-danso/
+twitter: https://twitter.com/_ewurabena/
 
 # Images 
-avatar: https://img.yliu.me/avatar_new.jpg
+avatar: /assets/img/me.jpg
 
 # Footnotes
-footnote: Feel free to use my website's source code.
-footnote_link: https://github.com/yaoyao-liu/minimal-light
+# footnote: Feel free to use my website's source code.
+# footnote_link: https://github.com/yaoyao-liu/minimal-light
 
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
 # Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-clustrmaps_id: CJD8XwsJhSyQ6sbsU-Gw0cNcUlbah7KW3xvHN2QlwW0
+# clustrmaps_id: CJD8XwsJhSyQ6sbsU-Gw0cNcUlbah7KW3xvHN2QlwW0
 
 # The following files will be removed from the generated website.
 exclude:
