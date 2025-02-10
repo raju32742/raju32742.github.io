@@ -48,7 +48,7 @@ main:
     pdf: https://github.com/priscilla100/CSE-519-Data-Science/blob/main/Music_Metadata_Analysis__Exploring_Patterns_in_Song_Attributes.pdf
     code: https://github.com/priscilla100/CSE-519-Data-Science/blob/main/SpotifyEDA.ipynb
     page: https://github.com/priscilla100/CSE-519-Data-Science/tree/main
-    image: /assets/img/zigbee.jpeg
+    image: /assets/img/music.png
     # notes: Spotlight
 
   # - title: "Wakening Past Concepts without Past Data: Class-Incremental Learning from Online Placebos"
