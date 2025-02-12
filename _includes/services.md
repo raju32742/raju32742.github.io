@@ -5,10 +5,16 @@
 <h4 style="margin:0 10px 0;">Artifact Evaluation Committee</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>Committee Member, <a href="https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html"><autocolor>ACM CCS</autocolor></a> <a href="https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html"><autocolor>2024</autocolor></a>-<a href="https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html"><autocolor>2024</autocolor></a></li>
+  <li>Committee Member, <a href="https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html"><autocolor>ACM CCS</autocolor></a> <a href="https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html"><autocolor>2024</autocolor></a></li>
   <!-- <li>Website Master, <a href="https://www.acmmmasia.org/2020/committee.html"><autocolor>ACM International Conference on Multimedia in Asia (MM Asia) 2020</autocolor></a></li> -->
 </ul>
 
+<h4 style="margin:0 10px 0;">Positions Held</h4>
+
+<ul style="margin:0 0 5px;">
+  <li>Secretary, <a href="https://wphd.cs.stonybrook.edu/people"><autocolor>Women in PhD in Computer Science (WPhD) at </autocolor></a>Stony Brook University, <a href="https://wphd.cs.stonybrook.edu/people"><autocolor>2024</autocolor></a>-<a href="https://wphd.cs.stonybrook.edu/people"><autocolor>Present</autocolor></a></li>
+  <!-- <li>Website Master, <a href="https://www.acmmmasia.org/2020/committee.html"><autocolor>ACM International Conference on Multimedia in Asia (MM Asia) 2020</autocolor></a></li> -->
+</ul>
 <!-- <h4 style="margin:0 10px 0;">Area Chairs</h4>
 
 <ul style="margin:0 0 5px;">

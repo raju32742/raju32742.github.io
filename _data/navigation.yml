@@ -1,16 +1,20 @@
 main:
-  - title: "Resume"
-    url: /resume/
+  - title: "Work Experience"
+    url: /work-experience/
     right: true
 
+  - title: "Resume"
+    url: /resume/
+
+  - title: "Services"
+    url: /services/
+    
   - title: "Projects"
     url: /projects/
 
   # - title: "Teaching"
   #   url: /teaching/
 
-  - title: "Services"
-    url: /services/
 
 # - title: "Talks"
 #   url: /talks/

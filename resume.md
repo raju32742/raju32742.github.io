@@ -18,10 +18,10 @@ permalink: /resume/
 </ul> -->
 <ul>
   <li><strong>Academic/Research Version:</strong> This version is tailored for academic and research purposes, focusing on my scholarly work, publications, and academic projects. 
-  <a href="{{ site.baseurl }}/assets/resume_SUMMARIZED___2025.pdf" target="_blank">Download Academic Resume</a></li>
+  <a href="{{ site.baseurl }}/assets/resume_summarized_2025.pdf" target="_blank">Download Academic Resume</a></li>
   <br>
   <li><strong>Extended Version (Includes Work Experience):</strong> This version provides a comprehensive overview of my professional background, including both my work experiences and academic achievements. 
-  <a href="{{ site.baseurl }}/assets/resume_DETAILED__2025.pdf" target="_blank">Download Extended Resume</a></li>
+  <a href="{{ site.baseurl }}/assets/resume_detailed_2025.pdf" target="_blank">Download Extended Resume</a></li>
 </ul>
 
 <p>Please feel free to download the version that best suits your needs.</p>
