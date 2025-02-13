@@ -3,7 +3,7 @@ main:
     authors: <strong>Priscilla Kyei Danso</strong>
     conference: CSE 528 Computer Graphics 
     conference_short: CSE 528
-    pdf: hhttps://github.com/priscilla100/medical_volume_renderer/blob/main/Term%20Project.pdf
+    pdf: https://github.com/priscilla100/medical_volume_renderer/blob/main/Term%20Project.pdf
     # bibtex: https://dblp.org/rec/journals/iotj/DansoDNZMLG24.html?view=bibtex
     data: https://github.com/priscilla100/medical_volume_renderer/tree/main/data
     page: https://github.com/priscilla100/medical_volume_renderer
