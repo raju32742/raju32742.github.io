@@ -24,7 +24,10 @@ Previously, I successfully completed my graduate studies in Computer Science at 
   <p style="font-size: 16px; color: #555; margin-bottom: 20px;">
     I am currently looking for summer 2025 internship positions which I hope will help hone my skills and attain industry experience.
   </p>
-  <a href="./assets/resume_summarized_2025.pdf" download class="resume-button">
+  <!-- <a href="./assets/resume_summarized_2025.pdf" download class="resume-button">
+    Download My Resume
+  </a> -->
+  <a href="./assets/cv.pdf" download class="resume-button">
     Download My Resume
   </a>
 </div>
