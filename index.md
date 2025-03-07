@@ -17,7 +17,7 @@ Previously, I successfully completed my graduate studies in Computer Science at 
 <!-- <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently looking for summer 2025 internship positions which I hope will help hone my skills and attain industry experience. You can find my resume  [here](./assets/resume_summarized_2025.pdf).</strong> -->
 
 
-<div class="call-to-action">
+<!-- <div class="call-to-action">
   <h2 style="color: #e74d3c; font-weight: 600; margin-bottom: 10px;">
     Looking for Summer 2025 Internship!
   </h2>
@@ -26,10 +26,27 @@ Previously, I successfully completed my graduate studies in Computer Science at 
   </p>
   <!-- <a href="./assets/resume_summarized_2025.pdf" download class="resume-button">
     Download My Resume
-  </a> -->
+  </a> 
   <a href="./assets/cv.pdf" download class="resume-button">
     Download My Resume
   </a>
+</div> -->
+
+<div class="call-to-action">
+  <h2 style="color: #e74d3c; font-weight: 600; margin-bottom: 10px;">
+    Looking for Summer 2025 Internship!
+  </h2>
+  <p style="font-size: 16px; color: #555; margin-bottom: 20px;">
+    I am currently looking for summer 2025 internship positions which I hope will help hone my skills and attain industry experience.
+  </p>
+    <div class="button-container">
+    <a href="./assets/cv.pdf" target="_blank" class="resume-button">
+      View My Resume
+    </a>
+    <a href="./assets/research_summary.pdf" target="_blank" class="resume-button">
+      View Research Summary
+    </a>
+  </div>
 </div>
 
 {% include_relative _includes/news.md %}
