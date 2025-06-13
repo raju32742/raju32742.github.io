@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 80px 0px 10px;"></h2>
 
-I am a second year PhD in Computer Science student at [Stony Brook University](https://www.stonybrook.edu/), where I am fortunate to be advised by [Prof. Omar Chowdhury](https://www.cs.stonybrook.edu/people/faculty/omarchowdhury).
+I am a University of Waterloo at [Stony Brook University](https://www.stonybrook.edu/), where I am fortunate to be advised by [Prof. Omar Chowdhury](https://www.cs.stonybrook.edu/people/faculty/omarchowdhury).
 
 My research lies at the intersection of **privacy compliance** and **formal verification** -- with a special focus on building privacy-secured systems that satisfies system specification requirement. My research interests include **privacy compliance**, **formal verification**, **security**, and **large language models**.
 <!-- , **3D geometry models**, and **medical imaging**. -->
