@@ -2,16 +2,7 @@
 
 <h2 style="margin: 60px 0px 10px;">Services</h2>
 
-<h4 style="margin:0 10px 0;">Artifact Evaluation Committee</h4>
-
-<ul style="margin:0 0 5px;">
-  <li>Committee Member, <a href="https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html"><autocolor>ACM CCS</autocolor></a> <a href="https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html"><autocolor>2024</autocolor></a></li>
-  <!-- <li>Website Master, <a href="https://www.acmmmasia.org/2020/committee.html"><autocolor>ACM International Conference on Multimedia in Asia (MM Asia) 2020</autocolor></a></li> -->
-</ul>
-
-
 <!-- <h4 style="margin:0 10px 0;">Area Chairs</h4>
-
 <ul style="margin:0 0 5px;">
   <li><a href="http://cvpr.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024-2025</autocolor></a></li>
   <li><a href="https://eccv2024.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2024</autocolor></a></li>
@@ -49,22 +40,83 @@
  
 </ul> -->
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+<h4 style="margin:0 10px 0;">Conference Reviewer</h4>
+<ul style="margin:0 0 5px;">
+  <li>
+    <a href="https://www.ieeesmc.org/" target="_blank">
+      <autocolor>IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC) 2024–2025</autocolor> </a> <a href="/assets/Review/IEEE_SMC.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a>
+  </li>
+  <li>
+    <a href="https://ijcnn.org/" target="_blank">
+      <autocolor>International Joint Conference on Neural Networks (IJCNN) 2025 </autocolor> </a> <a href="/assets/Review/IJCNN 2025.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a>
+  </li>
+</ul>
 
-<ul style="margin:0 0 20px;">
-  <li><a href="https://ieee-iotj.org/"><autocolor>IEEE Internet of Things Journal</autocolor></a></li>
-  <!-- <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
-  <li><a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing"><autocolor>IEEE Transactions on Image Processing (TIP)</autocolor></a></li>
-  <li><a href="https://www.computer.org/csdl/journal/tk"><autocolor>IEEE Transactions on Knowledge and Data Engineering (TKDE)</autocolor></a></li>
-  <li><a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-multimedia"><autocolor>IEEE Transactions on Multimedia (TMM)</autocolor></a></li>
-  <li><a href="https://ieee-cas.org/publications/ieee-transactions-circuits-and-systems-video-technology"><autocolor>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</autocolor></a></li>
-  <li><a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems"><autocolor>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</autocolor></a></li>
-  <li><a href="https://dl.acm.org/journal/tomm"><autocolor>ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)</autocolor></a></li>
-  <li><a href="https://www.sciencedirect.com/journal/medical-image-analysis"><autocolor>Medical Image Analysis (MedIA)</autocolor></a></li> -->
-</ul> 
 
-<h4 style="margin:0 10px 0;">Positions Held</h4>
+<h4 style="margin:15px 10px 0;">Journal Reviewer</h4>
+<ul style="margin:0 0 20px; text-align: justify;">
+  <li><a href="https://ieeeaccess.ieee.org/" target="_blank"><autocolor>IEEE Access</autocolor></a><a href="/assets/Review/IEEE Access.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361" target="_blank"><autocolor>IEEE Sensors Letters</autocolor></a><a href="/assets/Review/IEEE Sensors Letters.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a></li>
+  <li><a href="https://journals.sagepub.com/home/one" target="_blank"><autocolor>One Plus</autocolor></a><a href="/assets/Review/One Plus.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a></li>
+  <li><a href="https://onlinelibrary.wiley.com/journal/20513305" target="_blank"><autocolor>Journal of Engineering (Wiley)</autocolor></a><a href="/assets/Review/Journal of Engineering (Wiley).pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a></li>
+  <li><a href="https://journals.sagepub.com/home/imr" target="_blank"><autocolor>Journal of International Medical Research</autocolor></a><a href="/assets/Review/Journal of International Medical Research.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a></li>
+  <li><a href="https://www.nature.com/srep/" target="_blank"><autocolor>Scientific Reports – Nature</autocolor></a><a href="/assets/Review/Science Report-Nature.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a></li>
+  <li><a href="https://www.tandfonline.com/journals/gcmb20" target="_blank"><autocolor>Computer Methods in Biomechanics and Biomedical Engineering</autocolor></a><a href="/assets/Review/Computer Methods in Biomechanics and Biomedical Engineering.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a></li>
+  <li><a href="https://www.springer.com/journal/11760" target="_blank"><autocolor>Signal, Image and Video Processing – Springer Nature</autocolor></a><a href="/assets/Review/Signal, Image and Video Processing – Springer Nature.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a></li>
+  <li><a href="https://www.worldscientific.com/worldscinet/bme?srsltid=AfmBOorULiJ9eXJlMBRC_IGCxIuvhbT3Iln7uPcTeCqD5TSjEU9bgyHU" target="_blank"><autocolor>Biomedical Engineering: Applications, Basis and Communications</autocolor></a> <a href="/assets/Review/Biomedical Engineering- Applications, Basis and Communications.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a></li>
+  <li><a href="https://journals.sagepub.com/home/thc" target="_blank"><autocolor>Technology and Health Care – Sage Journals</autocolor></a><a href="/assets/Review/Technology and Health Care – Sage Journals.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a></li>
+</ul>
+
+
+
+
+<h4 style="margin:0 10px 0;">Leadership & Co-curricular Activities</h4>
+<ul style="margin:0 0 20px; text-align: justify;">
+     <li>
+    Mentor, <autocolor>Winter 2025 Graduate Mentorship Program, University of Waterloo</autocolor>, providing guidance to new graduate students through UW’s mentorship initiative <a href="/assets/mentor/mentor_UW.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;">[PDF]</a>
+  </li>
+ <li>
+  Mentor, System Development Project, KUET – Guided 3rd year undergraduates in designing and implementing innovative smartphone based software solutions 2021 <a href="/assets/mentor/Mobile_Application.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;">[PDF]</a>
+</li>
+<li>
+  Research Mentor, KUET – Supervised 3rd year undergraduates on deep learning and sensor-based projects, fostering research skills and teamwork 2022 <a href="/assets/mentor/BCL.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;">[PDF]</a>
+</li>
+<li>
+  Supervisor, Capstone Project, KUET – Advised 4th year students in applying deep learning to biomedical data analysis, supporting project completion and publication 2023 <a href="/assets/mentor/Thesis_non_Invasive.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;">[PDF]</a>
+</li>
+<li>
+  Supervisor, Capstone Project, KUET – Advised 4th year students on EEG signal classification using deep learning <a href="/assets/mentor/Motor_Imagery_EEG.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a>
+</li>
+   <li>
+  Student Coordinator VP, <autocolor>Department of CSE, KUET</autocolor>, leading campus tours, coordinating student volunteers, and representing the department to prospective students and families.
+</li>
+</ul>
+
+
+
+<h4 style="margin:0 10px 0;">Volunteer Experience</h4>
+<ul style="margin:0 0 20px; text-align: justify;">
+  <li>
+      Volunteer Member to assisting with conference logistics, attendee suppor for <a href="https://ieeexplore.ieee.org/xpl/conhome/9733402/proceeding" target="_blank"><autocolor>5th International Conference on Electrical Information and Communication Technology (EICT)</autocolor></a> 2021
+  </li>
+  <li>
+    Collaboration work with OneBlood organization project 10100 Dr. Martin Luther King Jr. St. N., St. Petersburg, Florida, USA 2020–2021 <a href="/assets/mentor/Motor_Imagery_EEG.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a>
+  </li>
+  <li>
+    Collaboration research with King Saud University Saudi Arabia 2021 <a href="/assets/mentor/Motor_Imagery_EEG.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a>
+  </li>
+  <li>
+    Instructor for introductory workshop on C Programming in 
+    <a href="https://www.facebook.com/sgipc.kuet/" target="_blank"><autocolor>SGPIC (Special Group Interested in Programming Contest)</autocolor></a> 2016
+  </li>
+  <li>
+    Student Motivator and Examiner in 
+    <a href="https://toph.co/nhspc" target="_blank"><autocolor>NHSPC (National High School Programming Contest)</autocolor></a> 2016–2017
+  </li>
+</ul>
+
+<!-- <h4 style="margin:0 10px 0;">Positions Held</h4>
 <ul style="margin:0 0 5px;">
   <li>Secretary, <a href="https://wphd.cs.stonybrook.edu/people"><autocolor>Women in PhD in Computer Science (WPhD) at </autocolor></a>Stony Brook University, <a href="https://wphd.cs.stonybrook.edu/people"><autocolor>2024</autocolor></a>-<a href="https://wphd.cs.stonybrook.edu/people"><autocolor>Present</autocolor></a></li>
-  <!-- <li>Website Master, <a href="https://www.acmmmasia.org/2020/committee.html"><autocolor>ACM International Conference on Multimedia in Asia (MM Asia) 2020</autocolor></a></li> -->
-</ul>
+  <!-- <li>Website Master, <a href="https://www.acmmmasia.org/2020/committee.html"><autocolor>ACM International Conference on Multimedia in Asia (MM Asia) 2020</autocolor></a></li>
+</ul> -->

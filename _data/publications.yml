@@ -1,24 +1,134 @@
 main:
-  - title: "Transferability of Machine Learning Algorithm for IoT Device Profiling and Identification"
-    authors: <strong>Priscilla Kyei Danso</strong>, Sajjad Dadkhah, Euclides Carlos Pinto Neto, Alireza Zohourian, Heather Molyneaux, Rongxing Lu
-    conference_short: IOTJ 
-    conference: IEEE Internet of Things Journal 
-    pdf: https://ieeexplore.ieee.org/abstract/document/10173670
-    bibtex: https://dblp.org/rec/journals/iotj/DansoDNZMLG24.html?view=bibtex
+  - title: "TransUAAE-CapGen: Caption Generation from Histopathological Patches through Transformer and UNet-Based Adversarial Autoencoder"
+    authors: <strong> S M Taslim Uddin Raju</strong>, Abdul Raqeeb Mohammad, Md. Milon Islam, Fakhri Karray
+    conference_short: IEEE SMC 
+    conference: IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2024
+    pdf: https://ieeexplore.ieee.org/document/10831147
+    bibtex_key: raju2024transuaae
+    bibtex: |
+      @inproceedings{raju2024transuaae,
+      title={TransUAAE-CapGen: Caption Generation from Histopathological Patches through Transformer and UNet-Based Adversarial Autoencoder},
+      author={Raju, SM Taslim Uddin and Mohammad, Abdul Raqeeb and Islam, Md Milon and Karray, Fakhri},
+      booktitle={2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC)},
+      pages={1383--1390},
+      year={2024},
+      organization={IEEE}
+      }
     data: https://www.unb.ca/cic/datasets/iotdataset-2022.html
     page: https://ieeexplore.ieee.org/abstract/document/10173670
-    image: /assets/img/transfer.png
+    notes: Tier B
+    image: /assets/img/conference/TransUAAE-CapGen.png
+    category: conference
 
 
-  - title: "Towards the Development of a Realistic Multidimensional IoT Profiling Dataset"
-    authors: Sajjad Dadkhah, Hassan Mahdikhani, <strong>Priscilla Kyei Danso</strong>, Alireza Zohourian, Kevin Anh Truong, Ali A. Ghorbani
-    conference_short: PST 
-    conference: 2022 19th Annual International Conference on Privacy, Security & Trust (PST).
-    pdf: https://ieeexplore.ieee.org/document/9851966
-    bibtex: https://dblp.org/rec/conf/pst/DadkhahMDZTG22.html?view=bibtex
+
+  - title: "DNN-BP: A Novel Framework for Cuffless Blood Pressure Measurement from Optimal PPG Features using Deep Learning Model"
+    authors: <strong>S M Taslim Uddin Raju</strong>, Safin Ahmed Dipto, Md Imran Hossain, Md. Abu Shahid Chowdhury, Fabliha Haque, Ayesha Tun Nashrah, Araf Nishan, Ashfaq Ahmad, and M. M. A. Hashem
+    conference_short: MBEC, Springer
+    conference: Medical & Biological Engineering & Computing, Springer, 2024
+    pdf: https://link.springer.com/article/10.1007/s11517-024-03157-1
+    bibtex_key: raju2024dnn
+    bibtex: |
+      @article{raju2024dnn,
+        title={DNN-BP: a novel framework for cuffless blood pressure measurement from optimal PPG features using deep learning model},
+        author={Raju, SM Taslim Uddin and Dipto, Safin Ahmed and Hossain, Md Imran and Chowdhury, Md Abu Shahid and Haque, Fabliha and Nashrah, Ayesha Tun and Nishan, Araf and Khan, Md Mahamudul Hasan and Hashem, MMA},
+        journal={Medical \& Biological Engineering \& Computing},
+        volume={62},
+        number={12},
+        pages={3687--3708},
+        year={2024},
+        publisher={Springer}
+      }
     data: https://www.unb.ca/cic/datasets/iotdataset-2022.html
-    page: https://www.unb.ca/cic/datasets/iotdataset-2022.html
-    image: /assets/img/dataset.png
+    image: /assets/img/journal/dnn_Bp.png
+    category: conference
+
+  - title: "A Continuous Cuffless Blood Pressure Measurement from Optimal PPG Characteristic Features using Machine Learning Algorithms"
+    authors: Araf Nishan, <strong>S M Taslim Uddin Raju</strong>, Md Imran Hossain, Safin Ahmed Dipto, Asif Sijan, S. M. Tanvir Uddin, Md. Abu Shahid Chowdhury, and Md Mahamudul Hasan Khan
+    conference_short: Heliyon, Elsevier
+    conference: Heliyon, Elsevier, 2024
+    pdf: https://www.cell.com/action/showPdf?pii=S2405-8440%2824%2903810-6
+    bibtex_key: nishan2024continuous
+    bibtex: |
+       @article{nishan2024continuous,
+          title={A continuous cuffless blood pressure measurement from optimal PPG characteristic features using machine learning algorithms},
+          author={Nishan, Araf and Raju, SM Taslim Uddin and Hossain, Md Imran and Dipto, Safin Ahmed and Uddin, SM Tanvir and Sijan, Asif and Chowdhury, Md Abu Shahid and Ahmad, Ashfaq and Khan, Md Mahamudul Hasan},
+          journal={Heliyon},
+          volume={10},
+          number={6},
+          year={2024},
+          publisher={Elsevier}
+        }
+    data: https://www.unb.ca/cic/datasets/iotdataset-2022.html
+    image: /assets/img/journal/nisan_non.png
+    category: conference
+
+  - title: "A Novel Technique for Non-Invasive Measurement of Human Blood Component Levels from Fingertip Video Using DNN Based Models"
+    authors: Md. Rezwanul Haque, <strong>S M Taslim Uddin Raju</strong>, Md. Asaf-uddowla Golap, M. M. A. Hashem
+    conference_short: IEEE ACCESS 
+    conference: IEEE ACCESS, 2021
+    pdf: https://ieeexplore.ieee.org/document/9335002
+    bibtex_key: haque2021novel
+    bibtex: |
+        @article{haque2021novel,
+          title={A novel technique for non-invasive measurement of human blood component levels from fingertip video using DNN based models},
+          author={Haque, Md Rezwanul and Raju, SM Taslim Uddin and Golap, Md Asaf-Uddowla and Hashem, MMA},
+          journal={IEEE Access},
+          volume={9},
+          pages={19025--19042},
+          year={2021},
+          publisher={IEEE}
+        }
+    image: /assets/img/journal/rez_non.png
+    category: conference
+
+  - title: "Hemoglobin and Glucose Level Estimation from PPG Characteristics Features of Fingertip Video Using MGGP-Based Mode"
+    authors: Md. Rezwanul Haque, <strong>S M Taslim Uddin Raju</strong>, Md. Asaf-uddowla Golap, M. M. A. Hashem
+    conference_short: BSPC, Elsevier
+    conference: Biomedical Signal Processing and Control, Elsevier, 2021
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S1746809421000756
+    bibtex_key: golap2021hemoglobin
+    bibtex: |
+     @article{golap2021hemoglobin,
+        title={Hemoglobin and glucose level estimation from PPG characteristics features of fingertip video using MGGP-based model},
+        author={Golap, Md Asaf-uddowla and Raju, SM Taslim Uddin and Haque, Md Rezwanul and Hashem, MMA},
+        journal={Biomedical Signal Processing and Control},
+        volume={67},
+        pages={102478},
+        year={2021},
+        publisher={Elsevier}
+      }
+    image: /assets/img/journal/golap_non.png
+    category: conference
+
+  - title: "Internet of Health Things: an introduction"
+    authors: Md Milon Islam, <strong>S M Taslim Uddin Raju</strong>, Sheikh Nooruddin, Fakhri Karray, and Ghulam Muhammad
+    conference_short: Elsevier
+    conference: In Blockchain and Digital Twin for Smart Healthcare, Elsevier, 2025
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/B978044330300500004X
+    bibtex_key: islam2025internet
+    bibtex: |
+      @incollection{islam2025internet,
+      title={Internet of Health Things: an introduction},
+      author={Islam, Md Milon and Raju, SM Taslim Uddin and Nooruddin, Sheikh and Karray, Fakhri and Muhammad, Ghulam},
+      booktitle={Blockchain and Digital Twin for Smart Healthcare},
+      pages={19--44},
+      year={2025},
+      publisher={Elsevier}
+      }
+    image: /assets/img/book/iot.png
+    category: book
+
+
+  - title: "Development of a Novel Non-invasive Smartphone-Based Blood Components Estimation Technique Using Python"
+    authors: <strong>S M Taslim Uddin Raju</strong>, and M.M.A Hashem
+    conference_short: PyCon US
+    conference: PyCon US, 2023
+    page: https://us.pycon.org/2023/schedule/posters/list/index.html
+    pdf: /assets/img/poster/S M TASLIM UDDIN RAJU POSTER.pdf
+    notes: Oral Presentation
+    image: /assets/img/poster/systemov.png
+    category: poster
 
   - title: "Ensemble-based Intrusion Detection for Internet of Things Devices"
     authors: <strong>Priscilla Kyei Danso</strong>, Euclides Carlos Pinto Neto, Sajjad Dadkhah, Alireza Zohourian, Heather Molyneaux, Ali A. Ghorbani

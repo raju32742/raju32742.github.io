@@ -1,20 +1,15 @@
-<h2 style="margin: 60px 0px 10px;">News</h2>
+<h2 style="margin: 40px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[Nov. 2024]</strong> I will serve as an Artifact Evaluation Chair (AEC) of <a href="https://www.usenix.org/conference/usenixsecurity25">USENIX Security 2025</a>.</li>
-<li><strong>[Oct. 2024]</strong> Attended the <a href="https://www.sreb.org/institute-teaching-and-mentoring">2024 Institute on Teaching and Mentoring</a> in New Orleans, Louisiana!</li>
-<li><strong>[Oct. 2024]</strong> Served as an Artifact Evaluation Chair (AEC) of the<a href="https://www.sigsac.org/ccs/CCS2024/"> ACM CCS 2024 Conference</a>.</li>
-<li><strong>[Jul. 2024]</strong> Finally found my potential research topic (Yes! This a huge milestone for me).</li>
-<li><strong>[May. 2024]</strong> Attended the  <a href="https://fm.csl.sri.com/SSFT24/">Thirteenth Summer School on Formal Techniques</a> in San Franscisco.</li>
-<li><strong>[Apr. 2024]</strong> Receievd an NSF travel grant to attend the  <a href="https://cps-iot-week2024.ie.cuhk.edu.hk/"> CPS-IOT Week 2024</a> in Hong Kong.</li>
-<li><strong>[Nov. 2023]</strong> Received the <a href="https://sites.google.com/vt.edu/imentor/">iMentor scholarship </a> by NSF for  <a href="https://www.sigsac.org/ccs/CCS2023/">ACM CCS 2023 conference</a>.</li>
-<li><strong>[Aug. 2023]</strong> Started my doctoral studies in <a href="https://www.cs.stonybrook.edu/">Computer Science</a> at <a href="https://stonybrook.edu">Stony Brook University </a>.</li>
+<li><strong>[May. 2023]</strong> Accepted invitation to review manuscript for the <a href="https://www.ieeesmc2025.org/">IEEE SMC 2025.</a></li>
+<li><strong>[May. 2023]</strong> Accepted invitation to review manuscript for the <a href="https://ieeeaccess.ieee.org/">IEEE Access.</a></li>
+<li><strong>[Apr. 2023]</strong> Submitted two research papers to <a href="https://www.ieeesmc2025.org/">IEEE SMC 2025.</a></li>
 
+<li><strong>[Apr. 2025]</strong> Officially graduated with a MASc in ECE from the University of Waterloo! 🎓</li>
+<li><strong>[Apr. 2024]</strong> Successfully completed my <strong>MASc Thesis Seminar</strong> — a key academic milestone showcasing my research on digital pathology and AI ✅ </li>
+<li><strong>[Mar. 2025]</strong> 	Exciting News – Our paper about "GNN-ViTCap" was accepted by <a href="https://2025.ijcnn.org/">IJCNN 2025!</a> 🎉</li>
+<li><strong>[Feb. 2023]</strong> Accepted invitation to review manuscript for the <a href="https://2025.ijcnn.org/">IJCNN 2025!</a>.</li>
 
-<!-- <li><strong>[Jun. 2024]</strong> I gave a talk on 3D generative models at <a href="https://sites.google.com/view/cvpr24-ac-workshop/">CVPR 2024 Area Chair Workshop</a>. </li>
-<li><strong>[Apr. 2024]</strong> I will serve as an Area Chair of <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> and <a href="https://2024.acmmm.org/">ACM MM 2024</a>.</li>
-<li><strong>[Jan. 2024]</strong> Our paper about <a href="https://arxiv.org/pdf/2306.08103.pdf">diffusion models</a> is accepted to <a href="https://iclr.cc/Conferences/2024/">ICLR 2024</a>.</li> -->
-  
 
 <li> <a href="#" onclick="toggleVis(this); return false;">Show more</a> </li>
 <div id="newsmore" style="display:none"> 

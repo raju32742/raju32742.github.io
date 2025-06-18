@@ -1,55 +1,96 @@
 main:
-  - title: "Interactive Volume Rendering for Enhancing Medical Imaging"
-    authors: <strong>Priscilla Kyei Danso</strong>
-    conference: CSE 528 Computer Graphics 
-    conference_short: CSE 528
-    pdf: https://github.com/priscilla100/medical_volume_renderer/blob/main/Term%20Project.pdf
-    # bibtex: https://dblp.org/rec/journals/iotj/DansoDNZMLG24.html?view=bibtex
-    data: https://github.com/priscilla100/medical_volume_renderer/tree/main/data
-    page: https://github.com/priscilla100/medical_volume_renderer
-    image: /assets/img/compg.png
+
+# MSc Thesis 
+  - title: "Advanced AI for Histopathological Whole Slide Image Classification and Captioning"
+    authors: <strong>S M Taslim Uddin Raju</strong>
+    conference: MASc. Thesis, ECE (Specialized in AI) (2025)
+    university: University of Waterloo
+    conference_short: MASc. Thesis
+    supervisor_name: Prof. Karry Fakhri
+    supervisor_link: https://scholar.google.ca/citations?user=9_Hpd5kAAAAJ&hl=en
+    pdf: 
+    slide: https://drive.google.com/file/d/1vMzfgHB0d3OzYpKTIxihgaYWQ3v6xEzW/view?usp=sharing     # <-- Add this line
+    code: https://github.com/raju32742/MASc_Thesis_UW_S_M_Taslim_Uddin_Raju
+    video:        # <-- Add this line
+    image: /assets/img/msc/masc.png
+    category: ms_thesis
+    details_page: "/masc_thesis/"
+  
+  - title: "A Study on Hemoglobin and Glucose Levels Estimation Techniques Using Optimal PPG Characteristic Features of Smartphone Videos"
+    authors: <strong>S M Taslim Uddin Raju</strong>
+    conference: MSc. Thesis, CSE, KUET (2022)
+    university: Khulna University of Engineering & Technology
+    conference_short: MSc. Thesis
+    supervisor_name: Prof. M.M.A. Hashem
+    supervisor_link: https://scholar.google.com/citations?user=zLdETScAAAAJ&hl=en
+    pdf: https://drive.google.com/file/d/199FBmiibjqR96j69P4Efuhfua3zpSoHZ/view?usp=sharing
+    code: https://github.com/raju32742/SmartPPG-Glucose
+    video: ""        # <-- Add this line
+    slide: https://drive.google.com/file/d/1eLZpRL1lZdP-qmimpHZXhTTQa7bnMqlJ/view?usp=sharing      # <-- Add this line
+    image: /assets/img/msc/systemov.jpg
+    category: ms_thesis
+    details_page: "/msc_thesis/"
 
 
-  - title: "LLM-based Anomaly Detection for Digital Substation Cybersecurity"
-    authors: Liam McGevna, Jason Chow, Jeffery Luo, <strong>Priscilla Kyei Danso</strong>
-    conference_short: AMS 559 
-    conference: AMS 559 Smart Energy in the Info Age
-    pdf: https://github.com/priscilla100/ams559/blob/main/LLM_based_Anomaly_Detection_for_Digital_Substation_Cybersecurity%20.pdf
-    # bibtex: https://dblp.org/rec/conf/pst/DadkhahMDZTG22.html?view=bibtex
-    data: https://github.com/priscilla100/ams559/tree/main/data
-    page: https://github.com/priscilla100/ams559
-    image: /assets/img/llm.png
 
-  - title: "The World Happiness Report Analysis and Visualization"
-    authors: Abisheka Pitumpe, <strong>Priscilla Kyei Danso</strong>
-    conference_short: CSE 564
-    conference: CSE 564 Visualization
-    pdf: https://github.com/priscilla100/cse564_Visualization/blob/main/CSE_564_Visualization_Prelim_Report.pdf
+
+
+# undergrade Thesis 
+  - title: "A Study on Non-Invasive Hemoglobin Measurement Techniques"
+    authors: <strong>S M Taslim Uddin Raju</strong>, Md. Rezwanul Haque
+    conference: BSc. Thesis, CSE, KUET (2019)
+    university: Khulna University of Engineering & Technology
+    conference_short: BSc. Thesis
+    supervisor_name: Prof. M.M.A. Hashem
+    supervisor_link: https://scholar.google.com/citations?user=zLdETScAAAAJ&hl=en
+    pdf: https://drive.google.com/file/d/1bhTIDHkTOMql3LXinJW2eJNN2wzhU8GY/view?usp=sharing
+    code: https://github.com/raju32742/Hemoglobin_PPG_Smartphone/tree/main
+    video: 
+    slide: https://drive.google.com/file/d/1hN7kByRCHYG0UEdN7xCGwL-eXnUx8v84/view?usp=drive_link
+    image: /assets/img/bsc/system.png
+    category: bsc_thesis
+    details_page: "/bsc_thesis/"
+
+
+
+#Course Project
+
+  - title: "Enhancing Human-Robot Interaction in Healthcare: A Study on Nonverbal Communication Cues and Trust Dynamics with NAO Robot Caregivers"
+    authors: <strong>S M Taslim Uddin Raju</strong>
+    conference_short: ECE 750
+    conference: ECE 750 Social Robotics, UW
+    pdf: 
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:QH10V04PcYEJ:scholar.google.com/&output=citation&scisdr=ClH1FpZtEKfo_wA1elk:AFWwaeYAAAAAZ6gzYlm1GHCnviTXdOz_2QYcz_s&scisig=AFWwaeYAAAAAZ6gzYmYIG06oJ0r_HIAer4Q0ZxY&scisf=4&ct=citation&cd=-1&hl=en
-    code: https://github.com/priscilla100/cse564_Visualization/tree/main
-    data: https://github.com/priscilla100/cse564_Visualization/tree/main/static/whr_data
-    page: https://github.com/priscilla100/cse564_Visualization/tree/main
-    image: /assets/img/viz.png
+    code: https://github.com/raju32742/Social-Robotics-Human-Computer-Interaction
+    data: 
+    page: https://www.youtube.com/watch?v=Fexi34KG678&ab_channel=LiveinCanada
+    image: /assets/img/Projects/Fig1.png
+    slide: https://github.com/raju32742/Social-Robotics-Human-Computer-Interaction/blob/main/Presentation/Paper%20Presentaion.pdf
+    category: project
 
-  - title: "Enhancing IoT Security: Intrusion Detection System Using Machine Learning for Cross-Environment Attack Identification"
-    authors: <strong>Priscilla Kyei Danso</strong>, P.A.C. Abisheka, Sagor Sikdar, G M Tasnim Alam
-    conference_short: CSE 509
-    conference: CSE 509 Network Security
-    pdf: https://github.com/priscilla100/cross-env-attack-identification/blob/main/final-report/Enhancing_IoT_Security__Intrusion_Detection_System_Using_Machine_Learning_for_Cross_Environment_Attack_Identification.pdf
-    code: https://github.com/priscilla100/cross-env-attack-identification/blob/main/code/Term%20Project%20Analysis.ipynb
-    page: https://github.com/priscilla100/cross-env-attack-identification/tree/main
-    image: /assets/img/netsec.png
+
+  - title: "Enhancing Automated Medical Question-Answer Systems Using Fine-Tuned Large Language Models"
+    authors: S. M. Tanvir Uddin, Wasima Mostary, Md. Nazmus Sakib, <strong> S M Taslim Uddin Raju</strong>, and Abdul Raqeeb Mohammad
+    conference_short: MSCI 641
+    conference: MSCI 641 - Text Analytics, UW
+    pdf: 
+    data: https://github.com/raju32742/LLM-Question-Aanswer/tree/main/MedQuAD
+    code: https://github.com/raju32742/LLM-Question-Aanswer
+    page: 
+    image: /assets/img/Projects/fig2.png
+    slide: 
+    category: project
 
     
-  - title: "Music Metadata Analysis: Exploring Patterns in Song Attributes"
-    authors: 	Abisheka Pitumpe, <strong>Priscilla Kyei Danso</strong>
-    conference_short: CSE 519
-    conference: CSE 519 Data Science
-    pdf: https://github.com/priscilla100/CSE-519-Data-Science/blob/main/Music_Metadata_Analysis__Exploring_Patterns_in_Song_Attributes.pdf
-    code: https://github.com/priscilla100/CSE-519-Data-Science/blob/main/SpotifyEDA.ipynb
-    page: https://github.com/priscilla100/CSE-519-Data-Science/tree/main
-    image: /assets/img/music.png
-    # notes: Spotlight
+  # - title: "Music Metadata Analysis: Exploring Patterns in Song Attributes"
+  #   authors: 	Abisheka Pitumpe, <strong>Priscilla Kyei Danso</strong>
+  #   conference_short: CSE 519
+  #   conference: CSE 519 Data Science
+  #   pdf: https://github.com/priscilla100/CSE-519-Data-Science/blob/main/Music_Metadata_Analysis__Exploring_Patterns_in_Song_Attributes.pdf
+  #   code: https://github.com/priscilla100/CSE-519-Data-Science/blob/main/SpotifyEDA.ipynb
+  #   page: https://github.com/priscilla100/CSE-519-Data-Science/tree/main
+  #   image: /assets/img/music.png
+  #   # notes: Spotlight
 
   # - title: "Wakening Past Concepts without Past Data: Class-Incremental Learning from Online Placebos"
   #   authors: <strong>Yaoyao Liu</strong>, Yingying Li, Bernt Schiele, and Qianru Sun

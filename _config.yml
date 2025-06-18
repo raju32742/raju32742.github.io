@@ -1,15 +1,17 @@
 # Basic Information 
-title: Priscilla Kyei Danso
-position: Graduate Research Assistant
-affiliation: Stony Brook University
-affiliation_link: https://www.stonybrook.edu/
+title: S M Taslim Uddin Raju
+position_1: AI Researcher  
+position_2: MASc in ECE (Specialized in  
+  <a href="https://uwaterloo.ca/electrical-computer-engineering/pattern-analysis-and-machine-intelligence-pami" target="_blank">AI</a>)
+affiliation: University of Waterloo
+affiliation_link: https://uwaterloo.ca/
 affiliation_logo: /assets/img/logo.png
-email: pdanso (at) cs.stonybrook.edu
+email: smturaju (at) uwaterloo.ca
 
 # Search Engine Optimization (SEO)
-keywords: Priscilla Kyei Danso, Danso Priscilla Kyei, DansoPriscillaKyei, PriscillaKyeiDanso
+keywords: S M Taslim Uddin Raju, Raju S M Taslim Uddin, smturaju
 canonical: https://priscilla100.github.io
-description: Priscilla Kyei Danso is a second year PhD in Computer Science student at Stony Brook University. Her research lies in Security, Privacy, Formal Methods, and Automated Reasoning.
+description: S M Taslim Uddin Raju is a second year PhD in Computer Science student at University of Waterloo. Her research lies in Security, Privacy, Formal Methods, and Automated Reasoning.
 
 # The option is used to enable the Illinois template.
 enable_hopkins_logo: true
@@ -19,10 +21,10 @@ enable_last_update: false
 
 # Links
 link_type: icon #text/icon
-google_scholar: https://scholar.google.com/citations?user=bPvjbUMAAAAJ&hl=en
-github_link: https://github.com/priscilla100/
-linkedin: https://www.linkedin.com/in/priscilla-kyei-danso/
-twitter: https://twitter.com/_ewurabena/
+google_scholar: https://scholar.google.ca/citations?user=ToadRS8AAAAJ&hl=en
+github_link: https://github.com/raju32742
+linkedin: https://www.linkedin.com/in/raju32742/
+twitter: https://x.com/RauUddin
 
 # Images 
 avatar: /assets/img/me.jpg
