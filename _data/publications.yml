@@ -63,8 +63,8 @@ main:
         publisher={Springer}
       }
     data: https://figshare.com/articles/dataset/PPG-BP_Database_zip/5459299
+    notes: Journal Quartile – Q2
     image: /assets/img/journal/dnn_Bp.png
-    note: Journal Quartile – Q2
     category: conference
 
   - title: "A Continuous Cuffless Blood Pressure Measurement from Optimal PPG Characteristic Features using Machine Learning Algorithms"
@@ -85,7 +85,7 @@ main:
         }
     data: https://figshare.com/articles/dataset/PPG-BP_Database_zip/5459299
     image: /assets/img/journal/nisan_non.png
-    note: Journal Quartile – Q1
+    notes: Journal Quartile – Q1
     category: conference
 
   - title: "A Novel Technique for Non-Invasive Measurement of Human Blood Component Levels from Fingertip Video Using DNN Based Models"
@@ -105,7 +105,7 @@ main:
           publisher={IEEE}
         }
     image: /assets/img/journal/rez_non.png
-    note: Journal Quartile – Q1
+    notes: Journal Quartile – Q1
     category: conference
   
   - title: "Hemoglobin and Glucose Level Estimation from PPG Characteristics Features of Fingertip Video Using MGGP-Based Mode"
@@ -125,12 +125,11 @@ main:
         publisher={Elsevier}
       }
     image: /assets/img/journal/golap_non.png
-    note: Journal Quartile – Q1
+    notes: Journal Quartile – Q1
     category: conference
 
   - title: "An Approach for Demand Forecasting in Steel Industries Using Ensemble Learning"
     authors: <strong>S. M. Taslim Uddin Raju</strong>, Amlan Sarker, Apurba Das, Md. Milon Islam, Mabrook S. Al-Rakhami, Atif M. Al-Amri, Tasniah Mohiuddin, Fahad R. Albogamy
-
     conference: Complexity, Hindawi, 2022
     pdf: https://onlinelibrary.wiley.com/doi/10.1155/2022/9928836
     bibtex_key: raju2022approach
@@ -146,7 +145,7 @@ main:
         publisher={Wiley Online Library}
       }
     image: /assets/img/journal/material.jpg
-    note: Journal Quartile – Q1
+    notes: Journal Quartile – Q1
     category: conference
 
 
@@ -169,7 +168,7 @@ main:
       publisher={Elsevier}
         }
     image: /assets/img/journal/darmodoctor.png
-    note: Journal Quartile – Q1
+    notes: Journal Quartile – Q1
     category: conference
 
 
