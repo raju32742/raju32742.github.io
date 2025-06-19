@@ -64,6 +64,7 @@ main:
       }
     data: https://figshare.com/articles/dataset/PPG-BP_Database_zip/5459299
     image: /assets/img/journal/dnn_Bp.png
+    note: Journal Quartile – Q2
     category: conference
 
   - title: "A Continuous Cuffless Blood Pressure Measurement from Optimal PPG Characteristic Features using Machine Learning Algorithms"
@@ -84,6 +85,7 @@ main:
         }
     data: https://figshare.com/articles/dataset/PPG-BP_Database_zip/5459299
     image: /assets/img/journal/nisan_non.png
+    note: Journal Quartile – Q1
     category: conference
 
   - title: "A Novel Technique for Non-Invasive Measurement of Human Blood Component Levels from Fingertip Video Using DNN Based Models"
@@ -103,6 +105,7 @@ main:
           publisher={IEEE}
         }
     image: /assets/img/journal/rez_non.png
+    note: Journal Quartile – Q1
     category: conference
 
   - title: "Hemoglobin and Glucose Level Estimation from PPG Characteristics Features of Fingertip Video Using MGGP-Based Mode"
@@ -122,6 +125,7 @@ main:
         publisher={Elsevier}
       }
     image: /assets/img/journal/golap_non.png
+    note: Journal Quartile – Q1
     category: conference
 
   - title: "Internet of Health Things: an introduction"
