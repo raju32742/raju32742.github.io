@@ -20,6 +20,15 @@
   background-color: #1a237e;
   cursor: pointer;
 }
+
+.work-details ul {
+    margin-bottom: 0.2em !important;
+}
+.work-details ul ul {
+    margin-bottom: 0 !important;   /* For nested lists */
+    margin-top: 0 !important;
+}
+
 </style>
 
 
@@ -71,7 +80,7 @@
         {% endfor %}
       </ul>
       {% if job.skills %}
-      <div class="work-skills" style="margin-top: 7px;">
+      <div class="work-skills" style="margin-top: 7px;padding-left: 20px;">
         {% for skill in job.skills %}
         <span class="badge">{{ skill }}</span>
         {% endfor %}
