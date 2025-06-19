@@ -107,12 +107,12 @@ main:
     image: /assets/img/journal/rez_non.png
     note: Journal Quartile – Q1
     category: conference
-
+  
   - title: "Hemoglobin and Glucose Level Estimation from PPG Characteristics Features of Fingertip Video Using MGGP-Based Mode"
     authors: Md. Rezwanul Haque, <strong>S M Taslim Uddin Raju</strong>, Md. Asaf-uddowla Golap, M. M. A. Hashem
     conference_short: BSPC, Elsevier
     conference: Biomedical Signal Processing and Control, Elsevier, 2021
-    pdf: https://www.sciencedirect.com/science/article/abs/pii/S1746809421000756
+    pdf: https://www.sciencedirect.com/science/article/pii/S1746809421002585
     bibtex_key: golap2021hemoglobin
     bibtex: |
      @article{golap2021hemoglobin,
@@ -127,6 +127,53 @@ main:
     image: /assets/img/journal/golap_non.png
     note: Journal Quartile – Q1
     category: conference
+
+  - title: "An Approach for Demand Forecasting in Steel Industries Using Ensemble Learning"
+    authors: <strong>S. M. Taslim Uddin Raju</strong>, Amlan Sarker, Apurba Das, Md. Milon Islam, Mabrook S. Al-Rakhami, Atif M. Al-Amri, Tasniah Mohiuddin, Fahad R. Albogamy
+
+    conference: Complexity, Hindawi, 2022
+    pdf: https://onlinelibrary.wiley.com/doi/10.1155/2022/9928836
+    bibtex_key: raju2022approach
+    bibtex: |
+     @article{raju2022approach,
+        title={An approach for demand forecasting in steel industries using ensemble learning},
+        author={Raju, SM Taslim Uddin and Sarker, Amlan and Das, Apurba and Islam, Md Milon and Al-Rakhami, Mabrook S and Al-Amri, Atif M and Mohiuddin, Tasniah and Albogamy, Fahad R},
+        journal={Complexity},
+        volume={2022},
+        number={1},
+        pages={9928836},
+        year={2022},
+        publisher={Wiley Online Library}
+      }
+    image: /assets/img/journal/material.jpg
+    note: Journal Quartile – Q1
+    category: conference
+
+
+  
+
+  - title: "Dermo-DOCTOR: A Framework for Concurrent Skin Lesion Detection and Recognition Using a Deep Convolutional Neural Network With End-to-End Dual Encoders"
+    authors: Md. Kamrul Hasan, Shidhartho Roy, Chayan Mondal, Md. Ashraful Alam, Md. Toufick E Elahi, Aishwariya Dutta, <strong>S. M. Taslim Uddin Raju</strong>, Md. Tasnim Jawad, Mohiuddin Ahmad
+    conference_short: BSPC, Elsevier
+    conference: Biomedical Signal Processing and Control, Elsevier, 2021
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S1746809421000756
+    bibtex_key: hasan2021dermo
+    bibtex: |
+      @article{hasan2021dermo,
+      title={Dermo-DOCTOR: A framework for concurrent skin lesion detection and recognition using a deep convolutional neural network with end-to-end dual encoders},
+      author={Hasan, Md Kamrul and Roy, Shidhartho and Mondal, Chayan and Alam, Md Ashraful and Elahi, Md Toufick E and Dutta, Aishwariya and Raju, SM Taslim Uddin and Jawad, Md Tasnim and Ahmad, Mohiuddin},
+      journal={Biomedical Signal Processing and Control},
+      volume={68},
+      pages={102661},
+      year={2021},
+      publisher={Elsevier}
+        }
+    image: /assets/img/journal/darmodoctor.png
+    note: Journal Quartile – Q1
+    category: conference
+
+
+
 
   - title: "Internet of Health Things: an introduction"
     authors: Md Milon Islam, <strong>S M Taslim Uddin Raju</strong>, Sheikh Nooruddin, Fakhri Karray, and Ghulam Muhammad
@@ -144,6 +191,7 @@ main:
       publisher={Elsevier}
       }
     image: /assets/img/book/iot.png
+    data: https://challenge.isic-archive.com/data/
     category: book
 
 
