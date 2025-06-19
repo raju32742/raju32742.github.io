@@ -14,8 +14,8 @@ main:
       year={2024},
       organization={IEEE}
       }
-    data: https://www.unb.ca/cic/datasets/iotdataset-2022.html
-    page: https://ieeexplore.ieee.org/abstract/document/10173670
+    data: https://zenodo.org/records/6021442
+    page: https://drive.google.com/file/d/1_k6mWjdRmICbeXzQ3mE4Mlnh4dIhbKF9/view?usp=sharing
     notes: Tier B
     image: /assets/img/conference/TransUAAE-CapGen.png
     category: conference
@@ -39,7 +39,7 @@ main:
         year={2024},
         publisher={Springer}
       }
-    data: https://www.unb.ca/cic/datasets/iotdataset-2022.html
+    data: https://figshare.com/articles/dataset/PPG-BP_Database_zip/5459299
     image: /assets/img/journal/dnn_Bp.png
     category: conference
 
@@ -59,7 +59,7 @@ main:
           year={2024},
           publisher={Elsevier}
         }
-    data: https://www.unb.ca/cic/datasets/iotdataset-2022.html
+    data: https://figshare.com/articles/dataset/PPG-BP_Database_zip/5459299
     image: /assets/img/journal/nisan_non.png
     category: conference
 
