@@ -1,4 +1,27 @@
 main:
+
+  - title: "GNN-ViTCap: GNN-Enhanced Multiple Instance Learning with Vision Transformers for Whole Slide Image Classification and Captioning"
+    authors: <strong> S M Taslim Uddin Raju</strong>, Md. Milon Islam, Hamdi, Md Rezwanul Haque, Hamdi Altaheri and Fakhri Karray
+    conference_short: IJCNN 2025 
+    conference: International Joint Conference on Neural Networks (IJCNN), 2025
+    # pdf: https://ieeexplore.ieee.org/document/10831147
+    # bibtex_key: raju2024transuaae
+    # bibtex: |
+    #   @inproceedings{raju2024transuaae,
+    #   title={TransUAAE-CapGen: Caption Generation from Histopathological Patches through Transformer and UNet-Based Adversarial Autoencoder},
+    #   author={Raju, SM Taslim Uddin and Mohammad, Abdul Raqeeb and Islam, Md Milon and Karray, Fakhri},
+    #   booktitle={2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC)},
+    #   pages={1383--1390},
+    #   year={2024},
+    #   organization={IEEE}
+    #   }
+    data: https://zenodo.org/records/6021442
+    # page: https://drive.google.com/file/d/1_k6mWjdRmICbeXzQ3mE4Mlnh4dIhbKF9/view?usp=sharing
+    notes: Tier A
+    image: /assets/img/msc/masc.png
+    category: conference
+
+
   - title: "TransUAAE-CapGen: Caption Generation from Histopathological Patches through Transformer and UNet-Based Adversarial Autoencoder"
     authors: <strong> S M Taslim Uddin Raju</strong>, Abdul Raqeeb Mohammad, Md. Milon Islam, Fakhri Karray
     conference_short: IEEE SMC 
