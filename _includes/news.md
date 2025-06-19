@@ -1,6 +1,8 @@
 <h2 style="margin: 40px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[June. 2023]</strong> Accepted another invitation to review manuscript for the <a href="https://www.ieeesmc2025.org/">IEEE SMC 2025.</a></li>
+  <li><strong>[June. 2025]</strong> Attended convocation ceremony at the University of Waterloo — officially celebrated MASc graduation! 🎓</li>
 <li><strong>[May. 2023]</strong> Accepted invitation to review manuscript for the <a href="https://www.ieeesmc2025.org/">IEEE SMC 2025.</a></li>
 <li><strong>[May. 2023]</strong> Accepted invitation to review manuscript for the <a href="https://ieeeaccess.ieee.org/">IEEE Access.</a></li>
 <li><strong>[Apr. 2023]</strong> Submitted two research papers to <a href="https://www.ieeesmc2025.org/">IEEE SMC 2025.</a></li>
@@ -8,18 +10,13 @@
 <li><strong>[Apr. 2025]</strong> Officially graduated with a MASc in ECE from the University of Waterloo! 🎓</li>
 <li><strong>[Apr. 2024]</strong> Successfully completed my <strong>MASc Thesis Seminar</strong> — a key academic milestone showcasing my research on digital pathology and AI ✅ </li>
 <li><strong>[Mar. 2025]</strong> 	Exciting News – Our paper about "GNN-ViTCap" was accepted by <a href="https://2025.ijcnn.org/">IJCNN 2025!</a> 🎉</li>
-<li><strong>[Feb. 2023]</strong> Accepted invitation to review manuscript for the <a href="https://2025.ijcnn.org/">IJCNN 2025!</a>.</li>
 
 
 <li> <a href="#" onclick="toggleVis(this); return false;">Show more</a> </li>
 <div id="newsmore" style="display:none"> 
-     <li><strong>[Apr. 2023]</strong> Our paper "IoT Zigbee Device Security" was accepted by the<a href="https://www.elsevier.com/r"> Elsevier's Internet of Things Journal</a>.</li>
-     <li><strong>[Mar. 2023]</strong> Accepted invitation to review manuscript for the <a href="https://ieee-iotj.org//">IEEE Internet of Things Journal</a>.</li>
-    <li><strong>[Feb. 2023]</strong> Our manuscript accepted by the <a href="https://ieee-iotj.org//">IEEE Internet of Things Journal</a>.</li>
-  <li><strong>[Dec. 2022]</strong> Our paper "Human-Centric Machine Learning" was accepted at by <a href="https://2023.hci.international/">HCI International 2023</a>.</li>
-  <li><strong>[Oct. 2022]</strong> Accepted an invitation to serve as a reviwer for <a href="https://2023.hci.international/">HCI International 2023</a>.</li>
-  <li><strong>[Oct. 2022]</strong> Our paper about "Ensemble-based IDS" was accepted by the <a href="https://honet-ict.org/archives/honet22/index.html">IEEE Honet 2022</a>.</li>
-  <li><strong>[Jun. 2022]</strong> Our paper on  IoT profiling was accepted at the <a href="https://pstnet.ca/pst2022/">Privacy, Security, and Trust (PST2022) conference</a>.</li>
+<li><strong>[Feb. 2023]</strong> Accepted invitation to review manuscript for the <a href="https://2025.ijcnn.org/">IJCNN 2025!</a>.</li>
+
+
   <!-- <li><strong>[Apr. 2023]</strong> I will give a talk on continual learning at <a href="https://sites.google.com/view/visionseminar">MIT Vision and Graphics Seminar</a>.</li>
   <li><strong>[Apr. 2023]</strong> I will serve as an Area Chair of <a href="https://www.auai.org/uai2023/">UAI 2023</a> and <a href="https://bmvc2023.rog/">BMVC 2023</a>.</li>
   <li><strong>[Mar. 2023]</strong> I will participate in the <a href="https://cvpr2023.thecvf.com/Conferences/2023/CallForDoctoralConsortium">CVPR 2023 Doctoral Consortium</a> with a travel award. </li>
