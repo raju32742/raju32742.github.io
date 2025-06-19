@@ -11,7 +11,7 @@ email: smturaju@uwaterloo.ca
 # Search Engine Optimization (SEO)
 keywords: S M Taslim Uddin Raju, Raju S M Taslim Uddin, smturaju
 canonical: https://priscilla100.github.io
-description: S M Taslim Uddin Raju is a second year PhD in Computer Science student at University of Waterloo. Her research lies in Security, Privacy, Formal Methods, and Automated Reasoning.
+# description: S M Taslim Uddin Raju 
 
 # The option is used to enable the Illinois template.
 enable_hopkins_logo: true
@@ -25,6 +25,7 @@ google_scholar: https://scholar.google.ca/citations?user=ToadRS8AAAAJ&hl=en
 github_link: https://github.com/raju32742
 linkedin: https://www.linkedin.com/in/raju32742/
 twitter: https://x.com/RauUddin
+email: smturaju@uwaterloo.ca
 
 # Images 
 avatar: /assets/img/me.jpg
