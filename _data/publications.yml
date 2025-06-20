@@ -341,8 +341,6 @@ main:
     image: /assets/img/journal/sadaf2021offline.png
     category: conference
 
-
-
   - title: "Classification of Diabetic Retinopathy Using Few-Shot Transfer Learning from Imbalanced Data"
     authors: Anik Ghosh, A. B. M. Aowlad Hossain, <strong>S. M. Taslim Uddin Raju</strong>
     conference_short: ICACCS
@@ -359,8 +357,48 @@ main:
         year={2021},
         organization={IEEE}
       }
-    image: /assets/img/journal/sadaf2021offline.png
+    image: /assets/img/journal/ghosh2021classification.png
     category: conference
+
+
+  - title: "Scalable Telehealth Services to Combat Novel Coronavirus (COVID-19) Pandemic"
+    authors: Shah Muhammad Azmat Ullah, Md. Milon Islam, Saifuddin Mahmud, Sheikh Nooruddin, <strong>S. M. Taslim Uddin Raju</strong>, and Md. Rezwanul Haque
+    conference_short: SNCS
+    conference: SN Computer Science, Springer, 2021
+    pdf: https://link.springer.com/article/10.1007/s42979-020-00401-x
+    bibtex_key: ullah2021scalable
+    bibtex: |
+      @article{ullah2021scalable,
+        title={Scalable telehealth services to combat novel coronavirus (COVID-19) pandemic},
+        author={Ullah, Shah Muhammad Azmat and Islam, Md Milon and Mahmud, Saifuddin and Nooruddin, Sheikh and Raju, SM Taslim Uddin and Haque, Md Rezwanul},
+        journal={SN Computer Science},
+        volume={2},
+        pages={1--8},
+        year={2021},
+        publisher={Springer}
+      }
+    image: /assets/img/journal/ullah2021scalable.png
+    category: conference
+
+
+  - title: "Breathing Aid Devices to Support Novel Coronavirus (COVID-19)Infected Patients"
+    authors: Md. Milon Islam, Shah Muhammad Azmat Ullah, Saifuddin Mahmud, and <strong>S. M. Taslim Uddin Raju</strong>
+    conference: SN Computer Science, Springer, 2020
+    pdf: https://link.springer.com/article/10.1007/s42979-020-00300-1
+    bibtex_key: islam2020breathing
+    bibtex: |
+     @article{islam2020breathing,
+      title={Breathing aid devices to support novel coronavirus (COVID-19) infected patients},
+      author={Islam, Md Milon and Ullah, Shah Muhammad Azmat and Mahmud, Saifuddin and Raju, SM Taslim Uddin},
+      journal={SN computer science},
+      volume={1},
+      pages={1--8},
+      year={2020},
+      publisher={Springer}
+      }
+    image: /assets/img/journal/islam2020breathing.png
+    category: conference
+
 
 
 
