@@ -2,7 +2,7 @@ main:
 
   - title: "GNN-ViTCap: GNN-Enhanced Multiple Instance Learning with Vision Transformers for Whole Slide Image Classification and Captioning"
     authors: <strong> S M Taslim Uddin Raju</strong>, Md. Milon Islam, Hamdi, Md Rezwanul Haque, Hamdi Altaheri and Fakhri Karray
-    conference_short: IJCNN 2025 
+    conference_short: IJCNN 
     conference: International Joint Conference on Neural Networks (IJCNN), 2025
     # pdf: https://ieeexplore.ieee.org/document/10831147
     # bibtex_key: raju2024transuaae
@@ -17,7 +17,7 @@ main:
     #   }
     data: https://zenodo.org/records/6021442
     # page: https://drive.google.com/file/d/1_k6mWjdRmICbeXzQ3mE4Mlnh4dIhbKF9/view?usp=sharing
-    notes: Tier A
+    notes: Tier A, Accepted 
     image: /assets/img/msc/masc.png
     category: conference
 
@@ -149,8 +149,6 @@ main:
     category: conference
 
 
-  
-
   - title: "Dermo-DOCTOR: A Framework for Concurrent Skin Lesion Detection and Recognition Using a Deep Convolutional Neural Network With End-to-End Dual Encoders"
     authors: Md. Kamrul Hasan, Shidhartho Roy, Chayan Mondal, Md. Ashraful Alam, Md. Toufick E Elahi, Aishwariya Dutta, <strong>S. M. Taslim Uddin Raju</strong>, Md. Tasnim Jawad, Mohiuddin Ahmad
     conference_short: BSPC, Elsevier
@@ -170,6 +168,86 @@ main:
     image: /assets/img/journal/darmodoctor.png
     notes: Journal Quartile – Q1
     category: conference
+
+
+  - title: "A Novel Framework for Enhancing Sensor Data Analysis: Label-Preserving Augmentation and Probabilistic Balancing"
+    authors: MD Jamil, Saimoon Oman, <strong>S. M. Taslim Uddin Raju</strong>, Fatema Soshi
+    conference_short: ICCIT
+    conference: International Conference on Computer and Information Technology (ICCIT), 2023
+    pdf: https://ieeexplore.ieee.org/document/10441346
+    bibtex_key: jamil2023novel
+    bibtex: |
+      @inproceedings{jamil2023novel,
+      title={A Novel Framework for Enhancing Sensor Data Analysis: Label-Preserving Augmentation and Probabilistic Balancing},
+      author={Jamil, MD and Oman, Saimoon and Raju, SM Taslim Uddin and Soshi, Fatema},
+      booktitle={2023 26th International Conference on Computer and Information Technology (ICCIT)},
+      pages={1--6},
+      year={2023},
+      organization={IEEE}
+      }
+    data: https://dl.acm.org/doi/10.1145/1964897.1964918
+    image: /assets/img/journal/Jamil.png
+    category: conference
+
+  - title: "Mobile Application to Collect Data and Measure Blood Component Level in a Non-Invasive Way"
+    authors: Humaira Neha, Sadman Sakib, Farhan Sadaf, <strong>S. M. Taslim Uddin Raju</strong>
+    conference_short: ICCIT
+    conference: International Conference on Computer and Information Technology (ICCIT), 2023
+    pdf: https://ieeexplore.ieee.org/document/10441186
+    bibtex_key: neha2023mobile
+    bibtex: |
+      @inproceedings{neha2023mobile,
+      title={Mobile Application to Collect Data and Measure Blood Component Level in a Non-Invasive Way},
+      author={Neha, Humaira and Sakib, Sadman and Sadaf, Farhan and Raju, SM Taslim Uddin},
+      booktitle={2023 26th International Conference on Computer and Information Technology (ICCIT)},
+      pages={1--6},
+      year={2023},
+      organization={IEEE}
+       }
+    image: /assets/img/journal/neha.png
+    category: conference
+
+
+
+  - title: "A Novel Technique for Classification of Motor Imagery EEG Signal Based on Deep Learning Approaches"
+    authors: Lamia Hossain, Ilma Hossain, <strong>S. M. Taslim Uddin Raju</strong>, Md. Shahidul Salim, and Joy Saha
+    conference_short: BIM 
+    conference: 2nd International Conference on Big Data, IoT and Machine Learning (BIM) 2023
+    pdf: https://www.researchgate.net/publication/377666616_A_Novel_Technique_for_Classification_of_Motor_Imagery_EEG_Signal_Based_on_Deep_Learning_Approaches
+    # bibtex_key: neha2023mobile
+    # bibtex: |
+    #   @inproceedings{neha2023mobile,
+    #   title={Mobile Application to Collect Data and Measure Blood Component Level in a Non-Invasive Way},
+    #   author={Neha, Humaira and Sakib, Sadman and Sadaf, Farhan and Raju, SM Taslim Uddin},
+    #   booktitle={2023 26th International Conference on Computer and Information Technology (ICCIT)},
+    #   pages={1--6},
+    #   year={2023},
+    #   organization={IEEE}
+    #    }
+    image: /assets/img/journal/Lamia.png
+    category: conference
+
+
+  - title: "BCL: A Branched CNN-LSTM Architecture for Human Activity Recognition Using Smartphone Sensors"
+    authors: Saimoon Al Farshi Oman, Md. Nafis Jamil, and <strong>S. M. Taslim Uddin Raju</strong>
+    conference_short: NCIM
+    conference: International Conference on Next-Generation Computing, IoT and Machine Learning (NCIM), 2023
+    pdf: https://ieeexplore.ieee.org/abstract/document/10212972/authors#authors
+    bibtex_key: oman2023bcl
+    bibtex: |
+     @inproceedings{oman2023bcl,
+      title={Bcl: A branched cnn-lstm architecture for human activity recognition using smartphone sensors},
+      author={Oman, Saimoon Al Farshi and Jamil, Md Nafis and Raju, SM Taslim Uddin},
+      booktitle={2023 International Conference on Next-Generation Computing, IoT and Machine Learning (NCIM)},
+      pages={1--5},
+      year={2023},
+      organization={IEEE}
+      }
+    page: https://drive.google.com/file/d/1_k6mWjdRmICbeXzQ3mE4Mlnh4dIhbKF9/view?usp=sharing
+    data: https://drive.google.com/file/d/1u8cRxP6ADwVlStf6HoUTUiA0X-SNlPlP/view?usp=sharing
+    image: /assets/img/journal/Saimoon.png
+    category: conference
+
 
 
 
