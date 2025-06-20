@@ -232,7 +232,7 @@ main:
     authors: Saimoon Al Farshi Oman, Md. Nafis Jamil, and <strong>S. M. Taslim Uddin Raju</strong>
     conference_short: NCIM
     conference: International Conference on Next-Generation Computing, IoT and Machine Learning (NCIM), 2023
-    pdf: https://ieeexplore.ieee.org/abstract/document/10212972/authors#authors
+    pdf: https://ieeexplore.ieee.org/abstract/document/10212972
     bibtex_key: oman2023bcl
     bibtex: |
      @inproceedings{oman2023bcl,
@@ -244,9 +244,126 @@ main:
       organization={IEEE}
       }
     page: https://drive.google.com/file/d/1_k6mWjdRmICbeXzQ3mE4Mlnh4dIhbKF9/view?usp=sharing
-    data: https://drive.google.com/file/d/1u8cRxP6ADwVlStf6HoUTUiA0X-SNlPlP/view?usp=sharing
     image: /assets/img/journal/Saimoon.png
     category: conference
+
+
+  - title: "A Deep Learning Approach for Non-Invasive Hypertension Classification from PPG Signal"
+    authors: Rifah Tasnim Haque Promi, Rezwana Akter Nazri, Md. Shahidul Salim, and <strong>S. M. Taslim Uddin Raju</strong>
+    conference_short: NCIM
+    conference: International Conference on Next-Generation Computing, IoT and Machine Learning (NCIM), 2023
+    pdf: https://ieeexplore.ieee.org/document/10212940
+    bibtex_key: promi2023deep
+    bibtex: |
+      @inproceedings{promi2023deep,
+      title={A Deep Learning Approach for Non-Invasive Hypertension Classification from PPG Signal},
+      author={Promi, Rifah Tasnim Haque and Nazri, Rezwana Akter and Salim, Md Shahidul and Raju, SM Taslim Uddin},
+      booktitle={2023 International Conference on Next-Generation Computing, IoT and Machine Learning (NCIM)},
+      pages={1--5},
+      year={2023},
+      organization={IEEE}
+      }
+    image: /assets/img/journal/Rifah.png
+    category: conference
+
+
+  - title: "Real-Time Hemoglobin Measurement Using Smartphone Video and Artificial Neural Network"
+    authors: <strong>S. M. Taslim Uddin Raju</strong> and M.M.A Hashem
+    conference_short: ICECTE
+    conference: International Conference on Electrical, Computer & Telecommunication Engineering (ICECTE), 2022
+    pdf: https://ieeexplore.ieee.org/document/10114545
+    bibtex_key: raju2022real
+    bibtex: |
+      @inproceedings{raju2022real,
+      title={Real-time hemoglobin measurement using smartphone video and artificial neural network},
+      author={Raju, SM Taslim Uddin and Hashem, MMA},
+      booktitle={2022 4th International Conference on Electrical, Computer \& Telecommunication Engineering (ICECTE)},
+      pages={139--142},
+      year={2022},
+      organization={IEEE}
+      }
+    image: /assets/img/journal/raju2022real.png
+    category: conference
+
+
+  - title: "DNN Based Blood Glucose Level Estimation Using PPG Characteristic Features of Smartphone Videos"
+    authors: <strong>S. M. Taslim Uddin Raju</strong> and M.M.A Hashem
+    conference_short: ICCIT
+    conference: International Conference on Computer and Information Technology (ICCIT), 2022
+    pdf: https://ieeexplore.ieee.org/abstract/document/10055090
+    bibtex_key: raju2022dnn
+    bibtex: |
+      @inproceedings{raju2022dnn,
+        title={DNN Based Blood Glucose Level Estimation Using PPG Characteristic Features of Smartphone Videos},
+        author={Raju, SM Taslim Uddin and Hashem, MMA},
+        booktitle={2022 25th International Conference on Computer and Information Technology (ICCIT)},
+        pages={13--18},
+        year={2022},
+        organization={IEEE}
+      }
+    image: /assets/img/journal/raju2022dnn.png
+    category: conference
+
+  - title: "Blood Donor Arrival Forecasting Using Regression Model and Analysis of Donor Behavioural Pattern"
+    authors: Towsif Ahamed, Md. Nazrul Islam, <strong>S. M. Taslim Uddin Raju</strong>, and M. M. A. Hashem
+    conference_short: ICCIT
+    conference: International Conference on Computer and Information Technology (ICCIT), 2022
+    pdf: https://ieeexplore.ieee.org/document/10054710
+    bibtex_key: ahamed2022blood
+    bibtex: |
+      @inproceedings{ahamed2022blood,
+      title={Blood donor arrival forecasting using regression model and analysis of donor behavioural pattern},
+      author={Ahamed, Towsif and Islam, Md Nazrul and Raju, SM Taslim Uddin and Hashem, MMA},
+      booktitle={2022 25th International Conference on Computer and Information Technology (ICCIT)},
+      pages={897--902},
+      year={2022},
+      organization={IEEE}
+      }
+    image: /assets/img/journal/ahamed2022blood.png
+    category: conference
+
+
+  - title: "Offline Bangla Handwritten Text Recognition: A Comprehensive Study of Various Deep Learning Approaches"
+    authors: Farhan Sadaf, <strong>S. M. Taslim Uddin Raju</strong>, and Abdul Muntakim
+    conference_short: ICEEE
+    conference: International Conference on Electrical & Electronic Engineering (ICEEE), 2021
+    pdf: https://ieeexplore.ieee.org/abstract/document/9718890
+    bibtex_key: sadaf2021offline
+    bibtex: |
+     @inproceedings{sadaf2021offline,
+        title={Offline bangla handwritten text recognition: A comprehensive study of various deep learning approaches},
+        author={Sadaf, Farhan and Raju, SM Taslim Uddin and Muntakim, Abdul},
+        booktitle={2021 3rd International Conference on Electrical \& Electronic Engineering (ICEEE)},
+        pages={153--156},
+        year={2021},
+        organization={IEEE}
+      }
+    image: /assets/img/journal/sadaf2021offline.png
+    category: conference
+
+
+
+  - title: "Classification of Diabetic Retinopathy Using Few-Shot Transfer Learning from Imbalanced Data"
+    authors: Anik Ghosh, A. B. M. Aowlad Hossain, <strong>S. M. Taslim Uddin Raju</strong>
+    conference_short: ICACCS
+    conference: International Conference on Advanced Computing and Communication Systems (ICACCS), 2021
+    pdf: https://ieeexplore.ieee.org/document/9442024
+    bibtex_key: ghosh2021classification
+    bibtex: |
+      @inproceedings{ghosh2021classification,
+        title={Classification of diabetic retinopathy using few-shot transfer learning from imbalanced data},
+        author={Ghosh, Anik and Hossain, ABM Aowlad and Raju, SM Taslim Uddin},
+        booktitle={2021 7th International Conference on Advanced Computing and Communication Systems (ICACCS)},
+        volume={1},
+        pages={78--83},
+        year={2021},
+        organization={IEEE}
+      }
+    image: /assets/img/journal/sadaf2021offline.png
+    category: conference
+
+
+
 
 
 
