@@ -23,7 +23,7 @@ permalink: /resume/
   </li>
   <br>
   <li><strong>Industry Focused :</strong> This version highlights my professional experience and technical expertise tailored for industry roles, along with relevant academic qualifications. 
-  <a href="{{ site.baseurl }}/assets/Resume_S_M_Taslim_Uddin_Raju.pdf" target="_blank">Download Industry Resume</a></li>
+  <a href="{{ site.baseurl }}/assets/Resume_S M_Taslim_Uddin_Raju.pdf" target="_blank">Download Industry Resume</a></li>
 </ul>
 
 <p>Please feel free to download the version that best suits your needs.</p>
