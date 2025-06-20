@@ -100,10 +100,10 @@
       Volunteer Member to assisting with conference logistics, attendee suppor for <a href="https://ieeexplore.ieee.org/xpl/conhome/9733402/proceeding" target="_blank"><autocolor>5th International Conference on Electrical Information and Communication Technology (EICT)</autocolor></a> 2021
   </li>
   <li>
-    Collaboration work with OneBlood organization project 10100 Dr. Martin Luther King Jr. St. N., St. Petersburg, Florida, USA 2020–2021 <a href="/assets/mentor/Motor_Imagery_EEG.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a>
+    Collaboration work with OneBlood organization project 10100 Dr. Martin Luther King Jr. St. N., St. Petersburg, Florida, USA 2020–2021 <a href="https://ieeexplore.ieee.org/abstract/document/10054710" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a>
   </li>
   <li>
-    Collaboration research with King Saud University Saudi Arabia 2021 <a href="/assets/mentor/Motor_Imagery_EEG.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a>
+    Collaboration research with King Saud University Saudi Arabia 2021 <a href="https://onlinelibrary.wiley.com/doi/full/10.1155/2022/9928836" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a>
   </li>
   <li>
     Instructor for introductory workshop on C Programming in 
