@@ -65,6 +65,7 @@
   <li><a href="https://www.springer.com/journal/11760" target="_blank"><autocolor>Signal, Image and Video Processing – Springer Nature</autocolor></a><a href="/assets/Review/Signal, Image and Video Processing – Springer Nature.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a></li>
   <li><a href="https://www.worldscientific.com/worldscinet/bme?srsltid=AfmBOorULiJ9eXJlMBRC_IGCxIuvhbT3Iln7uPcTeCqD5TSjEU9bgyHU" target="_blank"><autocolor>Biomedical Engineering: Applications, Basis and Communications</autocolor></a> <a href="/assets/Review/Biomedical Engineering- Applications, Basis and Communications.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a></li>
   <li><a href="https://journals.sagepub.com/home/thc" target="_blank"><autocolor>Technology and Health Care – Sage Journals</autocolor></a><a href="/assets/Review/Technology and Health Care – Sage Journals.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a></li>
+  <li><a href="https://onlinelibrary.wiley.com/journal/ijis" target="_blank"><autocolor>International Journal of Intelligent Systems</autocolor></a><a href="/assets/Review/International Journal of Intelligent Systems.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a></li>
 </ul>
 
 
