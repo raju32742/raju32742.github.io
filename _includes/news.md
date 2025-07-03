@@ -1,14 +1,14 @@
 <h2 style="margin: 40px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[June. 2023]</strong> Accepted another invitation to review manuscript for the <a href="https://www.ieeesmc2025.org/">IEEE SMC 2025.</a></li>
+<li><strong>[June. 2025]</strong> Accepted another invitation to review manuscript for the <a href="https://www.ieeesmc2025.org/">IEEE SMC 2025.</a></li>
   <li><strong>[June. 2025]</strong> Attended convocation ceremony at the University of Waterloo — officially celebrated MASc graduation! 🎓</li>
-<li><strong>[May. 2023]</strong> Accepted invitation to review manuscript for the <a href="https://www.ieeesmc2025.org/">IEEE SMC 2025.</a></li>
-<li><strong>[May. 2023]</strong> Accepted invitation to review manuscript for the <a href="https://ieeeaccess.ieee.org/">IEEE Access.</a></li>
-<li><strong>[Apr. 2023]</strong> Submitted two research papers to <a href="https://www.ieeesmc2025.org/">IEEE SMC 2025.</a></li>
+<li><strong>[May. 2025]</strong> Accepted invitation to review manuscript for the <a href="https://www.ieeesmc2025.org/">IEEE SMC 2025.</a></li>
+<li><strong>[May. 2025]</strong> Accepted invitation to review manuscript for the <a href="https://ieeeaccess.ieee.org/">IEEE Access.</a></li>
+<li><strong>[Apr. 2025]</strong> Submitted two research papers to <a href="https://www.ieeesmc2025.org/">IEEE SMC 2025.</a></li>
 
 <li><strong>[Apr. 2025]</strong> Officially graduated with a MASc in ECE from the University of Waterloo! 🎓</li>
-<li><strong>[Apr. 2024]</strong> Successfully completed my <strong>MASc Thesis Seminar</strong> — a key academic milestone showcasing my research on digital pathology and AI ✅ </li>
+<li><strong>[Apr. 2025]</strong> Successfully completed my <strong>MASc Thesis Seminar</strong> — a key academic milestone showcasing my research on digital pathology and AI ✅ </li>
 <li><strong>[Mar. 2025]</strong> 	Exciting News – Our paper about "GNN-ViTCap" was accepted by <a href="https://2025.ijcnn.org/">IJCNN 2025!</a> 🎉</li>
 
 
