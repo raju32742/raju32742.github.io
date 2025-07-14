@@ -4,19 +4,17 @@ main:
     authors: <strong> S M Taslim Uddin Raju</strong>, Md. Milon Islam, Hamdi, Md Rezwanul Haque, Hamdi Altaheri and Fakhri Karray
     conference_short: IJCNN 
     conference: International Joint Conference on Neural Networks (IJCNN), 2025
-    # pdf: https://ieeexplore.ieee.org/document/10831147
-    # bibtex_key: raju2024transuaae
-    # bibtex: |
-    #   @inproceedings{raju2024transuaae,
-    #   title={TransUAAE-CapGen: Caption Generation from Histopathological Patches through Transformer and UNet-Based Adversarial Autoencoder},
-    #   author={Raju, SM Taslim Uddin and Mohammad, Abdul Raqeeb and Islam, Md Milon and Karray, Fakhri},
-    #   booktitle={2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC)},
-    #   pages={1383--1390},
-    #   year={2024},
-    #   organization={IEEE}
-    #   }
-    data: https://zenodo.org/records/6021442
-    # page: https://drive.google.com/file/d/1_k6mWjdRmICbeXzQ3mE4Mlnh4dIhbKF9/view?usp=sharing
+    pdf: https://arxiv.org/html/2507.07006v1
+    bibtex_key: raju2025gnn-vitcap
+    bibtex: |
+     @article{raju2025gnn-vitcap,
+      title={GNN-ViTCap: GNN-Enhanced Multiple Instance Learning with Vision Transformers for Whole Slide Image Classification and Captioning},
+      author={Raju, S M Taslim Uddin and Islam, Md. Milon and Haque, Md Rezwanul and Altaheri, Hamdi and Karray, Fakhri},
+      journal={arXiv preprint arXiv:2507.07006},
+      year={2025}
+      }
+    # data: https://www.youtube.com/watch?v=ID_36F-B61M&ab_channel=LiveinCanada
+    page: https://www.youtube.com/watch?v=ID_36F-B61M&ab_channel=LiveinCanada
     notes: Tier A, Accepted 
     image: /assets/img/msc/masc.png
     category: conference
