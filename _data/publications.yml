@@ -13,7 +13,7 @@ main:
       journal={arXiv preprint arXiv:2507.07006},
       year={2025}
       }
-    # data: https://www.youtube.com/watch?v=ID_36F-B61M&ab_channel=LiveinCanada
+    data: https://zenodo.org/records/6021442
     page: https://www.youtube.com/watch?v=ID_36F-B61M&ab_channel=LiveinCanada
     notes: Tier A, Accepted 
     image: /assets/img/msc/masc.png
@@ -381,6 +381,7 @@ main:
 
   - title: "Breathing Aid Devices to Support Novel Coronavirus (COVID-19)Infected Patients"
     authors: Md. Milon Islam, Shah Muhammad Azmat Ullah, Saifuddin Mahmud, and <strong>S. M. Taslim Uddin Raju</strong>
+    conference_short: SNCS
     conference: SN Computer Science, Springer, 2020
     pdf: https://link.springer.com/article/10.1007/s42979-020-00300-1
     bibtex_key: islam2020breathing
