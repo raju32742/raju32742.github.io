@@ -1,6 +1,7 @@
 <h2 style="margin: 40px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[July. 2025]</strong> Exciting News – Two of our papers are accepted <a href="https://iccv.thecvf.com/">ICCV Workshop, Hawaii, USA</a></li>
 <li><strong>[June. 2025]</strong> Exciting News – Two of our papers are accepted <a href="https://www.ieeesmc2025.org/">IEEE SMC 2025.</a></li>
 <li><strong>[June. 2025]</strong> Accepted another invitation to review manuscript for the <a href="https://www.ieeesmc2025.org/">IEEE SMC 2025.</a></li>
   <li><strong>[June. 2025]</strong> Attended convocation ceremony at the University of Waterloo — officially celebrated MASc graduation! 🎓</li>
