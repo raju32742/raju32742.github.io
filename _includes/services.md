@@ -55,6 +55,7 @@
 
 <h4 style="margin:15px 10px 0;">Journal Reviewer</h4>
 <ul style="margin:0 0 20px; text-align: justify;">
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424" target="_blank"><autocolor> IEEE Transactionson Industrial Informatics </autocolor></a><a href="/assets/Review/TII-25-5085.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020" target="_blank"><autocolor> Journal of Biomedical and Health Informatics </autocolor></a><a href="/assets/Review/JBHI-03747-2025.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a></li>
   <li><a href="https://ieeeaccess.ieee.org/" target="_blank"><autocolor>IEEE Access</autocolor></a><a href="/assets/Review/IEEE Access.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361" target="_blank"><autocolor>IEEE Sensors Letters</autocolor></a><a href="/assets/Review/IEEE Sensors Letters.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a></li>
