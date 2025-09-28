@@ -133,6 +133,10 @@
         <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>University of Waterloo, ON, Canada</autocolor></a>
         <br>
         {% endif %}
+        {% if site.Address %}
+        {{ site.Address}}
+        {% endif %}
+
         {% if site.email %}
         <email>{{ site.email }}</email>
         {% endif %}
