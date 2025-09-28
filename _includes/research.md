@@ -10,6 +10,6 @@
 <em>[MBEC, Springer 2024; BSPC, Elsevier 2021; IEEE Access 2021]</em>
 </li>
 <li>
-  <strong>Medical Imaging & Generative AI in Healthcare:</strong> Vision–language fusion, clinical QA, and disease detection <em>[Information Fusion, Elsevier 2025; BSPC, Elsevier 2022; IEEE SMC 2025]</em>
+  <strong>Medical Imaging & Generative AI in Healthcare:</strong> Vision–language fusion, clinical QA, and disease detection <em>[Results in Engineering, Elsevier 2025; BSPC, Elsevier 2022; IEEE SMC 2025, ICCV Workshop 2025]</em>
 </li></ul>
 </p>
