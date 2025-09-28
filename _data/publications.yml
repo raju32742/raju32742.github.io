@@ -1,5 +1,25 @@
 main:
 
+  - title: "TransfusionNet: Framework for Cervical Cancer Detection Using Deep Learning with Multi-Level Fusion"
+    authors: <strong> S M Taslim Uddin Raju</strong>, Md. Milon Islam, Hamdi, Md Rezwanul Haque, Hamdi Altaheri and Fakhri Karray
+    conference_short: RE, Elsevier
+    conference: Results in Engineering, Elsevier, 2025
+    pdf: https://www.sciencedirect.com/science/article/pii/S2590123025032293?via%3Dihub
+    bibtex_key: hasan2025transfusionnet
+    bibtex: |
+      @article{hasan2025transfusionnet,
+      title={TransfusionNet: Framework for Cervical Cancer Detection using Deep Learning with Multi-level Fusion},
+      author={Hasan, Najib and Shuvo, Sourav Basak and Ankon, Mahadi Hasan and Raju, SM Taslim Uddin and Siddique, Nazmul},
+      journal={Results in Engineering},
+      pages={107174},
+      year={2025},
+      publisher={Elsevier}
+      }
+    notes: Journal Quartile – Q1
+    image: /assets/img/journal/Architecture.png
+    category: conference
+
+
   - title: "GNN-ViTCap: GNN-Enhanced Multiple Instance Learning with Vision Transformers for Whole Slide Image Classification and Captioning"
     authors: <strong> S M Taslim Uddin Raju</strong>, Md. Milon Islam, Hamdi, Md Rezwanul Haque, Hamdi Altaheri and Fakhri Karray
     conference_short: IJCNN 
