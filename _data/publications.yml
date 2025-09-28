@@ -1,7 +1,7 @@
 main:
 
   - title: "TransfusionNet: Framework for Cervical Cancer Detection Using Deep Learning with Multi-Level Fusion"
-    authors: <strong> S M Taslim Uddin Raju</strong>, Md. Milon Islam, Hamdi, Md Rezwanul Haque, Hamdi Altaheri and Fakhri Karray
+    authors: Md. Najib Hasan, Sourav Basak Shuvo, Md Mahadi Hasan Ankon, <strong> S M Taslim Uddin Raju </strong>, Nazmul Siddique
     conference_short: RE, Elsevier
     conference: Results in Engineering, Elsevier, 2025
     pdf: https://www.sciencedirect.com/science/article/pii/S2590123025032293?via%3Dihub
@@ -231,17 +231,17 @@ main:
     authors: Lamia Hossain, Ilma Hossain, <strong>S. M. Taslim Uddin Raju</strong>, Md. Shahidul Salim, and Joy Saha
     conference_short: BIM 
     conference: 2nd International Conference on Big Data, IoT and Machine Learning (BIM) 2023
-    pdf: https://www.researchgate.net/publication/377666616_A_Novel_Technique_for_Classification_of_Motor_Imagery_EEG_Signal_Based_on_Deep_Learning_Approaches
-    # bibtex_key: neha2023mobile
-    # bibtex: |
-    #   @inproceedings{neha2023mobile,
-    #   title={Mobile Application to Collect Data and Measure Blood Component Level in a Non-Invasive Way},
-    #   author={Neha, Humaira and Sakib, Sadman and Sadaf, Farhan and Raju, SM Taslim Uddin},
-    #   booktitle={2023 26th International Conference on Computer and Information Technology (ICCIT)},
-    #   pages={1--6},
-    #   year={2023},
-    #   organization={IEEE}
-    #    }
+    pdf: https://www.google.com/books/edition/Intelligent_Networks_and_Systems/NgKFEQAAQBAJ?hl=en&gbpv=1&dq=info:VZpF4QJE8QMJ:scholar.google.com&pg=PA52&printsec=frontcover
+    bibtex_key: hossain2025novel
+    bibtex: |
+      @article{hossain2025novel,
+      title={A Novel Technique for Classification of Motor Imagery EEG Signal Based on Deep Learning Approaches},
+      author={Hossain, Lamia and Hossain, Ilma and Raju, SM Taslim Uddin and Salim, Md Shahidul and Saha, Joy},
+      journal={Intelligent Networks and Systems: Advanced Technologies and Applications},
+      pages={52},
+      year={2025},
+      publisher={CRC Press}
+        }
     image: /assets/img/journal/Lamia.png
     category: conference
 
