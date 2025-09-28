@@ -19,7 +19,7 @@ I hold a MASc in Electrical and Computer Engineering (ECE) from the <a href="htt
 <!-- Previously, I successfully completed my graduate studies in Computer Science at the [University of New Brunswick](https://unb.ca/), Canada. During my time pursuing my graduate studies, I served as a Graduate Research Assistant at the [Canadian Institute of Cybersecurity](https://www.unb.ca/cic/). My research interests spanned the Internet of Things (IoT), Anomaly Detection, and Security under the supevision of Professor [Ali Ghorbani](https://www.cs.unb.ca/people/ghorbani). My biography is [here](./biography/).
  --> 
 
-<!-- <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently looking for summer 2025 internship positions which I hope will help hone my skills and attain industry experience. You can find my resume  [here](./assets/resume_summarized_2025.pdf).</strong> --> -->
+<!-- <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently looking for summer 2025 internship positions which I hope will help hone my skills and attain industry experience. You can find my resume  [here](./assets/resume_summarized_2025.pdf).</strong> --> 
 
 
 <div class="call-to-action">
@@ -27,7 +27,7 @@ I hold a MASc in Electrical and Computer Engineering (ECE) from the <a href="htt
     Looking for Summer 2025 Internship!
   </h2>
   <p style="font-size: 16px; color: #555; margin-bottom: 20px;">
-    I am currently looking for summer 2025 internship positions which I hope will help hone my skills and attain industry experience.
+I am currently seeking PhD opportunities in Computer Science for Fall 2026, with a focus on advancing my research in AI and healthcare.
   </p>
    <a href="./assets/resume_summarized_2025.pdf" download class="resume-button">
     Download My Resume
