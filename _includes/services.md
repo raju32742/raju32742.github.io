@@ -71,7 +71,7 @@
 
     <li><a href="https://journals.sagepub.com/home/imr" target="_blank"><autocolor>Journal of International Medical Research, 2024</autocolor></a><a href="/assets/Review/Journal of International Medical Research.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a></li>
   <li><a href="https://www.nature.com/srep/" target="_blank"><autocolor>Scientific Reports – Nature, 2024</autocolor></a><a href="/assets/Review/Science Report-Nature.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a></li>
-   <li><a href="https://onlinelibrary.wiley.com/journal/20513305" target="_blank"><autocolor>Journal of Engineering - Wiley, 2024</autocolor></a><a href="/assets/Review/JE_Reviewer_Certificate_2024.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a></li>
+   <li><a href="https://onlinelibrary.wiley.com/journal/20513305" target="_blank"><autocolor>Journal of Engineering–Wiley, 2024</autocolor></a><a href="/assets/Review/JE_Reviewer_Certificate_2024.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a></li>
   <li><a href="https://www.springer.com/journal/11760" target="_blank"><autocolor>Signal, Image and Video Processing – Springer Nature, 2024</autocolor></a><a href="/assets/Review/Signal, Image and Video Processing – Springer Nature.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a></li>
 
   <!-- 2023-->
