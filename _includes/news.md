@@ -5,20 +5,17 @@
 <li><strong>[Sep. 2025]</strong> Accepted invitation to review manuscript for the <a href="https://www.tandfonline.com/toc/gcmb20/current">Computer Methods in Biomechanics and Biomedical Engineering - Taylor & Francis</a></li>
 <li><strong>[Sep. 2025]</strong> Accepted invitation to review manuscript for the <a href="https://www.ieeesmc2025.org/">IEEE SMC 2025.</a></li>
 <li><strong>[July. 2025]</strong> Exciting News – Two of our papers are accepted <a href="https://iccv.thecvf.com/">ICCV Workshop, Hawaii, USA</a></li>
-<li><strong>[June. 2025]</strong> Exciting News – Two of our papers are accepted <a href="https://www.ieeesmc2025.org/">IEEE SMC 2025.</a></li>
-<li><strong>[June. 2025]</strong> Accepted another invitation to review manuscript for the <a href="https://www.ieeesmc2025.org/">IEEE SMC 2025.</a></li>
-  <li><strong>[June. 2025]</strong> Attended convocation ceremony at the University of Waterloo — officially celebrated MASc graduation! 🎓</li>
+<li><strong>[Jun. 2025]</strong> Exciting News – Two of our papers are accepted <a href="https://www.ieeesmc2025.org/">IEEE SMC 2025.</a></li>
+<li><strong>[Jun. 2025]</strong> Accepted another invitation to review manuscript for the <a href="https://www.ieeesmc2025.org/">IEEE SMC 2025.</a></li>
+  <li><strong>[Jun. 2025]</strong> Attended convocation ceremony at the University of Waterloo — officially celebrated MASc graduation! 🎓</li>
 <li><strong>[May. 2025]</strong> Accepted invitation to review manuscript for the <a href="https://www.ieeesmc2025.org/">IEEE SMC 2025.</a></li>
 <li><strong>[May. 2025]</strong> Accepted invitation to review manuscript for the <a href="https://ieeeaccess.ieee.org/">IEEE Access.</a></li>
 <li><strong>[Apr. 2025]</strong> Submitted two research papers to <a href="https://www.ieeesmc2025.org/">IEEE SMC 2025.</a></li>
-
+<li> <a href="#" onclick="toggleVis(this); return false;">Show more</a> </li>
+<div id="newsmore" style="display:none"> 
 <li><strong>[Apr. 2025]</strong> Officially graduated with a MASc in ECE from the University of Waterloo! 🎓</li>
 <li><strong>[Apr. 2025]</strong> Successfully completed my <strong>MASc Thesis Seminar</strong> — a key academic milestone showcasing my research on digital pathology and AI ✅ </li>
 <li><strong>[Mar. 2025]</strong> 	Exciting News – Our paper about "GNN-ViTCap" was accepted by <a href="https://2025.ijcnn.org/">IJCNN 2025!</a> 🎉</li>
-
-
-<li> <a href="#" onclick="toggleVis(this); return false;">Show more</a> </li>
-<div id="newsmore" style="display:none"> 
 <li><strong>[Feb. 2023]</strong> Accepted invitation to review manuscript for the <a href="https://2025.ijcnn.org/">IJCNN 2025!</a>.</li>
 
 
