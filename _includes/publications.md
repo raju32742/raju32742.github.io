@@ -6,7 +6,7 @@
   <a href="https://scholar.google.ca/citations?user=ToadRS8AAAAJ&hl=en" target="_blank" style="font-size:15px;">Google Scholar</a>
   <temp style="font-size:15px;">]</temp>
   <temp style="font-size:15px;">[</temp>
-  <a href="https://orcid.org/my-orcid?orcid=0000-0001-6866-0222" target="_blank" style="font-size:15px;">ORCID</a>
+  <a href="https://orcid.org/0000-0001-6866-0222" target="_blank" style="font-size:15px;">ORCID</a>
   <temp style="font-size:15px;">]</temp>
 </h2>
 
