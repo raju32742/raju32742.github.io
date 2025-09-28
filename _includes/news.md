@@ -3,8 +3,9 @@
 <ul>
 <li><strong>[Sep. 2025]</strong> Accepted invitation to review manuscript for the <a href="https://link.springer.com/journal/10791">Discover Computing-Springer Nature</a></li>
 <li><strong>[Sep. 2025]</strong> Accepted invitation to review manuscript for the <a href="https://www.tandfonline.com/toc/gcmb20/current">Computer Methods in Biomechanics and Biomedical Engineering - Taylor & Francis</a></li>
+<li><strong>[Sep. 2025]</strong> Accepted invitation to review manuscript for the <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361">IEEE Sensors Journal</a></li>
 <li><strong>[Sep. 2025]</strong> Accepted invitation to review manuscript for the <a href="https://www.ieeesmc2025.org/">IEEE SMC 2025.</a></li>
-<li><strong>[July. 2025]</strong> Exciting News – Two of our papers are accepted <a href="https://iccv.thecvf.com/">ICCV Workshop, Hawaii, USA</a></li>
+<li><strong>[Jul. 2025]</strong> Exciting News – Two of our papers are accepted <a href="https://iccv.thecvf.com/">ICCV Workshop, Hawaii, USA</a></li>
 <li><strong>[Jun. 2025]</strong> Exciting News – Two of our papers are accepted <a href="https://www.ieeesmc2025.org/">IEEE SMC 2025.</a></li>
 <li><strong>[Jun. 2025]</strong> Accepted another invitation to review manuscript for the <a href="https://www.ieeesmc2025.org/">IEEE SMC 2025.</a></li>
   <li><strong>[Jun. 2025]</strong> Attended convocation ceremony at the University of Waterloo — officially celebrated MASc graduation! 🎓</li>
