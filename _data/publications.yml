@@ -1,5 +1,41 @@
 main:
 
+  - title: "A Signer-Invariant Conformer and Multi-Scale Fusion Transformer for Continuous Sign Language Recognition"
+    authors: Md Rezwanul Haque, Md. Milon Islam, <strong> S M Taslim Uddin Raju</strong>, Fakhri Karray
+    conference_short: ICCV 2025 Workshop
+    conference: International Conference on Computer Vision, ICCV 2025
+    page: https://iccv.thecvf.com/
+    pdf: https://arxiv.org/html/2508.09372v1
+    bibtex_key: haque2025signer
+    bibtex: |
+      @article{haque2025signer,
+        title={A Signer-Invariant Conformer and Multi-Scale Fusion Transformer for Continuous Sign Language Recognition},
+        author={Haque, Md Rezwanul and Islam, Md Milon and Raju, SM and Karray, Fakhri},
+        journal={arXiv preprint arXiv:2508.09372},
+        year={2025}
+      }
+    notes: Oral Presentation
+    image: /assets/img/poster/signer.png
+    category: poster
+
+  - title: "FusionEnsemble-Net: An Attention-Based Ensemble of Spatiotemporal Networks for Multimodal Sign Language Recognition"
+    authors: Md. Milon Islam, Md Rezwanul Haque, <strong> S M Taslim Uddin Raju</strong>, Fakhri Karray
+    conference_short: ICCV 2025 Workshop
+    conference: International Conference on Computer Vision, ICCV 2025
+    page: https://iccv.thecvf.com/
+    pdf: https://arxiv.org/html/2508.09362v1
+    bibtex_key: islam2025fusionensemble
+    bibtex: |
+      @article{islam2025fusionensemble,
+        title={FusionEnsemble-Net: An Attention-Based Ensemble of Spatiotemporal Networks for Multimodal Sign Language Recognition},
+        author={Islam, Md Milon and Haque, Md Rezwanul and Raju, SM and Karray, Fakhri},
+        journal={arXiv preprint arXiv:2508.09362},
+        year={2025}
+      }
+    notes: Oral Presentation
+    image: /assets/img/poster/fusionensemble.png
+    category: poster
+
   - title: "MDD-Net: Multimodal Depression Detection through Mutual Transformer"
     authors: Md Rezwanul Haque, Md. Milon Islam, <strong> S M Taslim Uddin Raju</strong>, Hamdi Altaheri, Lobna Nassar, Fakhri Karray
     conference_short: IEEE SMC 
@@ -452,11 +488,6 @@ main:
       }
     image: /assets/img/journal/islam2020breathing.png
     category: conference
-
-
-
-
-
 
 
 
