@@ -24,7 +24,7 @@ I hold a MASc in Electrical and Computer Engineering (ECE) from the <a href="htt
 
 <div class="call-to-action">
   <h2 style="color: #e74d3c; font-weight: 600; margin-bottom: 10px;">
-    Looking for Summer 2025 Internship!
+    Looking for PhD opportunities in CS for Fall 2026!
   </h2>
   <p style="font-size: 16px; color: #555; margin-bottom: 20px;">
 I am currently seeking PhD opportunities in Computer Science for Fall 2026, with a focus on advancing my research in AI and healthcare.
