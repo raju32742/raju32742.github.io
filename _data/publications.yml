@@ -1,5 +1,40 @@
 main:
 
+  - title: "MDD-Net: Multimodal Depression Detection through Mutual Transformer"
+    authors: Md Rezwanul Haque, Md. Milon Islam, <strong> S M Taslim Uddin Raju</strong>, Hamdi Altaheri, Lobna Nassar, Fakhri Karray
+    conference_short: IEEE SMC 
+    conference: IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2025
+    pdf: https://arxiv.org/html/2508.08093v1
+    bibtex_key: haque2025mdd
+    bibtex: |
+     @article{haque2025mdd,
+        title={MDD-Net: Multimodal Depression Detection through Mutual Transformer},
+        author={Haque, Md Rezwanul and Islam, Md Milon and Raju, SM and Altaheri, Hamdi and Nassar, Lobna and Karray, Fakhri},
+        journal={arXiv preprint arXiv:2508.08093},
+        year={2025}
+      }
+    notes: Tier B
+    image: /assets/img/conference/mdd.png
+    category: conference
+
+  - title: "MMFformer: Multimodal Fusion Transformer Network for Depression Detection"
+    authors: Md Rezwanul Haque, Md. Milon Islam, <strong> S M Taslim Uddin Raju</strong>, Hamdi Altaheri, Lobna Nassar, Fakhri Karray
+    conference_short: IEEE SMC 
+    conference: IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2025
+    pdf: https://arxiv.org/html/2508.06701v1
+    bibtex_key: haque2025mmfformer
+    bibtex: |
+      @article{haque2025mmfformer,
+      title={MMFformer: Multimodal Fusion Transformer Network for Depression Detection},
+      author={Haque, Md Rezwanul and Islam, Md Milon and Raju, SM and Altaheri, Hamdi and Nassar, Lobna and Karray, Fakhri},
+      journal={arXiv preprint arXiv:2508.06701},
+      year={2025}
+        }
+    notes: Tier B
+    image: /assets/img/conference/mmfformer.png
+    category: conference
+
+
   - title: "TransfusionNet: Framework for Cervical Cancer Detection Using Deep Learning with Multi-Level Fusion"
     authors: Md. Najib Hasan, Sourav Basak Shuvo, Md Mahadi Hasan Ankon, <strong> S M Taslim Uddin Raju </strong>, Nazmul Siddique
     conference_short: RE, Elsevier
@@ -35,7 +70,7 @@ main:
       }
     data: https://zenodo.org/records/6021442
     page: https://www.youtube.com/watch?v=ID_36F-B61M&ab_channel=LiveinCanada
-    notes: Tier A, Accepted 
+    notes: Tier A 
     image: /assets/img/msc/masc.png
     category: conference
 
