@@ -2,11 +2,11 @@
 
 <h2 style="margin: 60px 0px 10px;">Fellowships, Honors, & Awards</h2>
 
- 
+
 <ul>
   <li><strong>2023–2025</strong> Graduate Research Assistantship, <a href="https://uwaterloo.ca/centre-pattern-analysis-machine-intelligence/">Pattern Analysis and Machine Intelligence Lab</a>, University of Waterloo [<em>Funding: $55,000 CAD</em>] <a href="https://drive.google.com/file/d/1yYSNx8P8UZjTpryENMWPW2L0YDGlT9xa/view?usp=sharing" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a></li>
   <li><strong>2023</strong> Scholar Award, <a href="https://ieeesmc2024.org/home"> IEEE International Conference on Systems, Man and Cybernetics (IEEE SMC) </a> [<em>Funding: $500 USD</em>]</li>
-  <li><strong>2023</strong> Scholar Award, <a href="https://us.pycon.org/2023/"> PyCon US </a> Poster Presentation, Salt Lake City, Utah, USA [<em>Funding: $2,000 USD</em>]</li>
+  <li><strong>2023</strong> Scholar Award, <a href="https://us.pycon.org/2023/"> PyCon US </a> Poster Presentation, Salt Lake City, Utah, USA [<em>Funding: $2,000 USD</em>]<a href="/assets/Review/TII-25-5085.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a></li> 
 <li>
   <strong>2023</strong> Vice Chancellor Award for Top Researcher, <a href="https://kuet.ac.bd/"> KUET </a>
   [<em>Funding: $500 USD</em>] <a href="https://drive.google.com/file/d/1qEPtdyRVhq5SGNE9EfsF6LVxd3m1Ecwd/view?usp=sharing" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a>
