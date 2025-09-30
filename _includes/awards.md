@@ -15,13 +15,13 @@
   <li><strong>2022</strong> Travel Grant, <a href="https://ieeexplore.ieee.org/xpl/conhome/10054512/proceeding"> 25th International Conference on Computer and Information Technology (ICCIT 2022), IEEE, Cox’s Bazar, Bangladesh </a> [<em>Funding: $400 USD</em>]</li>
   <li><strong>2021</strong> Travel Grant, <a href="https://www.eee.ruet.ac.bd/news-and-event/3rd-international-conference-on-electrical-electronic-engineering-22-24-december-2021"> 3rd International Conference on Electrical & Electronic Engineering (ICEEE 2021), IEEE, RUET, Rajshahi, Bangladesh</a> [<em>Funding: $300 USD</em>]</li>
 <li>
-  <strong>2017–2018</strong> Dean’s List, outstanding academic performance, KUET [<em>CGPA: 3.93/4.00</em>]<a href="https://drive.google.com/file/d/15_6v9ExvwhO4AwqcjuqagmCLBPzBRHdO/view?usp=drive_link" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a>
+  <strong>2017–2018</strong> Dean’s List, outstanding academic performance, KUET [<em>CGPA: 3.93/4.00</em>]<a href="/assets/awards/DeanAwars1st.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a>
 </li>
 <li>
-  <strong>2016–2017</strong> Dean’s List, outstanding academic performance, KUET [<em>CGPA: 3.94/4.00</em>]<a href="https://drive.google.com/file/d/1DdSzBgZbluO2yu-bmWH6QTeYLl2tkePI/view?usp=drive_link" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a>
+  <strong>2016–2017</strong> Dean’s List, outstanding academic performance, KUET [<em>CGPA: 3.94/4.00</em>]<a href="/assets/awards/DeanAwars2nd.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a>
 </li>
 <li>
-  <strong>2015–2016</strong> Dean’s List, outstanding academic performance, KUET [<em>CGPA: 3.90/4.00</em>]<a href="https://drive.google.com/file/d/1hAPn2ZDcxXB-GnNQl8NaojEEAE4X_ONv/view?usp=drive_link" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a>
+  <strong>2015–2016</strong> Dean’s List, outstanding academic performance, KUET [<em>CGPA: 3.90/4.00</em>]<a href="/assets/awards/DeanAwars3rd.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a>
 </li>
   <li><strong>2016–2019</strong> Technical Scholarship, Khulna University of Engineering & Technology [<em>Funding: $250 USD/year</em>]</li>
 </ul>
