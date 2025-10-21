@@ -29,10 +29,10 @@ I hold a MASc in Electrical and Computer Engineering (ECE) from the <a href="htt
   <p style="font-size: 16px; color: #555; margin-bottom: 20px;">
 I am currently seeking PhD opportunities in Computer Science for Fall 2026, with a focus on advancing my research in AI and healthcare.
   </p>
-   <a href="./assets/resume_summarized_2025.pdf" download class="resume-button">
-    Download My Resume
+   <a href="./assets/CV_S_M_Taslim_Uddin_Raju.pdf" download class="resume-button">
+    Download My CV
   </a> 
-  <a href="./assets/cv.pdf" download class="resume-button">
+  <a href="./assets/Research_Summary.pdf" download class="resume-button">
       View Research Summary
   </a>
 </div>
