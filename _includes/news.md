@@ -1,6 +1,7 @@
 <h2 style="margin: 40px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[Oct. 2025]</strong>Accepted invitation to review manuscript for the  <a href="https://eict2025.kuet.ac.bd/">7th International Conference on Electrical Information and Communication Technology</a>🎉</li>
 <li><strong>[Sep. 2025]</strong>Our paper TransfusionNet has been accepted in  <a href="https://www.sciencedirect.com/science/article/pii/S2590123025032293?via%3Dihub">Results in Engineering, Elsevier, IF 7.9!</a>🎉</li>
 <li><strong>[Sep. 2025]</strong> Accepted invitation to review manuscript for the <a href="https://link.springer.com/journal/10791">Discover Computing-Springer Nature</a></li>
 <li><strong>[Sep. 2025]</strong> Accepted invitation to review manuscript for the <a href="https://www.tandfonline.com/toc/gcmb20/current">Computer Methods in Biomechanics and Biomedical Engineering - Taylor & Francis</a></li>
