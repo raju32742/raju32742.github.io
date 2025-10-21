@@ -42,6 +42,10 @@
 
 <h4 style="margin:0 10px 0;">Conference Reviewer</h4>
 <ul style="margin:0 0 5px;">
+<li>
+    <a href="https://eict2025.kuet.ac.bd/" target="_blank">
+      <autocolor>7th International Conference on Electrical Information and Communication Technology (EICT) 2025 </autocolor> </a> <a href="/assets/Review/eict_2025.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a>
+  </li>
   <li>
     <a href="https://www.ieeesmc.org/" target="_blank">
       <autocolor>IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC) 2024–2025</autocolor> </a> <a href="/assets/Review/IEEE_SMC.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a>
