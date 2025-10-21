@@ -18,9 +18,6 @@ main:
     image: /assets/img/poster/signer.png
     category: poster
 
-      pdf: /assets/img/poster/S M TASLIM UDDIN RAJU POSTER.pdf
-
-
   - title: "FusionEnsemble-Net: An Attention-Based Ensemble of Spatiotemporal Networks for Multimodal Sign Language Recognition"
     authors: Md. Milon Islam, Md Rezwanul Haque, <strong> S M Taslim Uddin Raju</strong>, Fakhri Karray
     conference_short: ICCV 2025 Workshop
