@@ -31,10 +31,8 @@ I am currently seeking PhD opportunities in Computer Science for Fall 2026, with
   </p>
    <a href="./assets/CV_S_M_Taslim_Uddin_Raju.pdf" target="_blank" class="resume-button">
     Download My CV
-  </a> 
-<a href="./assets/Research_Summary.pdf" target="_blank" class="resume-button">
-  View Research Summary
-</a>
+  </a> <a href="/assets/Research/Research_Summary.pdf" target="_blank" class="resume-button">
+  View Research Summary </a>
 </div>
 
 <!-- <div class="call-to-action">
