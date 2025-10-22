@@ -20,9 +20,9 @@ work_experience:
     start_date: "Sep 2023"
     end_date: "Apr 2025"
     description:
-      - 'Winter 2024: <a href="https://github.com/jzarnett/mte241">MTE 241</a> – Introduction to Computer Structures and Real-Time Systems'
+      - 'Winter 2024: <a href="https://github.com/jzarnett/ece459">ECE 459</a> – Programming for Performance'
       - 'Spring 2024: <a href="https://github.com/jzarnett/mte241">MTE 241</a> – Introduction to Computer Structures and Real-Time Systems'
-      - 'Fall 2024: <a href="https://github.com/jzarnett/ece459">ECE 459</a> – Programming for Performance'
+      - 'Fall 2024: <a href="https://github.com/jzarnett/mte241">MTE 241</a> – Introduction to Computer Structures and Real-Time Systems'
       - 'Winter 2025: <a href="https://github.com/raju32742/ECE222-Digital-Computing-Lab">ECE 222</a> – Digital Computers'
       - "Assisted in course delivery, grading, and student support."
     skills: ["Teaching", "Grading", "Programming"]
