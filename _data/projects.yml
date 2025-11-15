@@ -23,10 +23,10 @@ main:
     conference_short: MSc. Thesis
     supervisor_name: Prof. M.M.A. Hashem
     supervisor_link: https://scholar.google.com/citations?user=zLdETScAAAAJ&hl=en
-    pdf: https://drive.google.com/file/d/199FBmiibjqR96j69P4Efuhfua3zpSoHZ/view?usp=sharing
+    pdf: /assets/Thesis/M__Sc__Thesis_Update.pdf 
     code: https://github.com/raju32742/SmartPPG-Glucose
     video: ""        # <-- Add this line
-    slide: https://drive.google.com/file/d/1eLZpRL1lZdP-qmimpHZXhTTQa7bnMqlJ/view?usp=sharing      # <-- Add this line
+    slide: /assets/Thesis/1907564.pdf     # <-- Add this line
     image: /assets/img/msc/systemov.jpg
     category: ms_thesis
     details_page: "/msc_thesis/"
