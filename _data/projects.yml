@@ -9,7 +9,7 @@ main:
     supervisor_name: Prof. Karry Fakhri
     supervisor_link: https://scholar.google.ca/citations?user=9_Hpd5kAAAAJ&hl=en
     pdf: https://uwspace.uwaterloo.ca/items/7fe59d42-19c4-41c7-baa0-c197a1e2e2bf
-    slide: https://drive.google.com/file/d/1vMzfgHB0d3OzYpKTIxihgaYWQ3v6xEzW/view?usp=sharing     # <-- Add this line
+    slide: /assets/Thesis/Final-Thesis Defense Presentation.pdf     # <-- Add this line
     code: https://github.com/raju32742/MASc_Thesis_UW_S_M_Taslim_Uddin_Raju
     video:        # <-- Add this line
     image: /assets/img/msc/masc.png
