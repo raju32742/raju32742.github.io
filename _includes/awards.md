@@ -2,8 +2,11 @@
 
 <h2 style="margin: 60px 0px 10px;">Fellowships, Honors, & Awards</h2>
 
-
 <ul>
+ <li><strong>2025</strong> ICCV 2025, 2nd Place Award at Multimodal Sign Language Recognition Challenge for Unseen Sentences Task <a href="https://iccv.thecvf.com/virtual/2025/events/workshop"> IEEE/CVF ICCV 2025 </a> - RRecognized for high-performing sign language recognition among <a href="https://uwaterloo.ca/centre-pattern-analysis-machine-intelligence/"> CPAMI Team, University of Waterloo [<em>Awarded: $750 USD</em>] </a> <a href="/assets/awards/2nd_place_ICCV_2025.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a></li>
+
+  <li><strong>2025</strong> Best Poster Award, 1st Multimodal Sign Language Recognition Workshop <a href="https://iccv.thecvf.com/virtual/2025/events/workshop"> IEEE/CVF ICCV 2025 </a> - Recognized for contributions to multimodal sign language recognition as part of the <a href="https://uwaterloo.ca/centre-pattern-analysis-machine-intelligence/"> CPAMI Team, University of Waterloo </a> <a href="/assets/awards/ICCV_2025_Best.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a></li>
+
   <li><strong>2023–2025</strong> Graduate Research Assistantship, <a href="https://uwaterloo.ca/centre-pattern-analysis-machine-intelligence/">Pattern Analysis and Machine Intelligence Lab</a>, University of Waterloo [<em>Funding: $55,000 CAD</em>] <a href="/assets/awards/Proof_of_enrolment.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a></li>
   <li><strong>2023</strong> Scholar Award, <a href="https://ieeesmc2024.org/home"> IEEE International Conference on Systems, Man and Cybernetics (IEEE SMC) </a> [<em>Funding: $500 USD</em>]</li>
   <li><strong>2023</strong> Scholar Award, <a href="https://us.pycon.org/2023/"> PyCon US </a> Poster Presentation, Salt Lake City, Utah, USA [<em>Funding: $2,000 USD</em>]<a href="/assets/awards/pycon_US_2023.pdf" target="_blank" style="font-size:14px; font-weight:800; text-decoration:none; letter-spacing:0.5px;"> [PDF]</a></li> 
