@@ -114,7 +114,7 @@
 
 
 
-<h4 style="margin:0 10px 0;">Volunteer Experience</h4>
+<h4 style="margin:0 10px 0;">Volunteering</h4>
 <ul style="margin:0 0 20px; text-align: justify;">
   <li>
       Volunteer Member to assisting with conference logistics, attendee suppor for <a href="https://ieeexplore.ieee.org/xpl/conhome/9733402/proceeding" target="_blank"><autocolor>5th International Conference on Electrical Information and Communication Technology (EICT)</autocolor></a> 2021
