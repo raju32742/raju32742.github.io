@@ -19,7 +19,7 @@ permalink: /resume/
 <ul>
   <li><strong>Academic/Research Version:</strong> This version is tailored for academic and research purposes, focusing on my scholarly work, publications, and academic projects. 
   <!-- <a href="{{ site.baseurl }}/assets/resume_summarized_2025.pdf" target="_blank">Download Academic Resume</a> -->
-  <a href="{{ site.baseurl }}/assets/CV_S_M_Taslim_Uddin_Raju.pdf" target="_blank">Download Academic Resume</a>
+  <a href="{{ site.baseurl }}/assets/Resume_S M_Taslim_Uddin_Raju.pdf" target="_blank">Download Academic Resume</a>
   </li>
   <br>
   <li><strong>Industry Focused :</strong> This version highlights my professional experience and technical expertise tailored for industry roles, along with relevant academic qualifications. 
