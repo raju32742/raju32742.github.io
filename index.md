@@ -27,7 +27,7 @@ I hold a MASc in Electrical and Computer Engineering (ECE) from the <a href="htt
     Looking for PhD opportunities in CS for Fall 2026!
   </h2>
   <p style="font-size: 16px; color: #555; margin-bottom: 20px;">
-I am currently seeking PhD opportunities in Computer Science for Fall 2026, with a focus on advancing my research in AI and healthcare.
+I am currently seeking PhD opportunities in Computer Science for Spring 2027, with a focus on advancing my research in AI and healthcare.
   </p>
    <a href="./assets/CV_S_M_Taslim_Uddin_Raju.pdf" target="_blank" class="resume-button">
     Download My CV
